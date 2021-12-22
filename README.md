@@ -1,4 +1,5 @@
 # Eyetracked Multi-Modal Translation (EMMT)
+Release version 1.0
 
 We present Eyetracked Multi-Modal Translation (EMMT), a dataset containing monocular eye movement recordings, audio data and 4-electrode wearable electroencephalogram (EEG) data of 43 participants while engaged in sight translation task supported by an image.
 
