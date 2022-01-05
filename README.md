@@ -7,7 +7,7 @@ The full description of the experiment design is in the paper accompanying the E
 
 >  EMMT (Eyetracked Multi-Modal Translation), a simultaneous eye-tracking, 4-electrode EEG and audio corpus for multi-modal reading and translation scenarios<br>
 >  Sunit Bhattacharya, Věra Kloudová, Vilém Zouhar, Ondřej Bojar<br>
->  2021
+>  2022
 
 
 ### Description of the data collected
