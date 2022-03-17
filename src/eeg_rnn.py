@@ -11,7 +11,7 @@ def reduce_line(line):
     label = line["sent"][0] == "amb"
     return (torch.Tensor(line["eeg"]), label*1)
     
-data = read_pickle("computed/eeg_small.pkl")
+data = read_pickle("computed/eeg.pkl")
 data = [reduce_line(line) for line in data]
 # random.shuffle(data)
 data_x, data_y = zip(*data)
@@ -25,4 +25,4 @@ data_x, data_y = zip(*data)
 # print(len([x for x in data_y if x == 0]), "namb")
 
 model = LSTMModel()
-model.train_loop(data[:-10], data[:-10])
+model.train_loop(data[:-100], data[-100:])

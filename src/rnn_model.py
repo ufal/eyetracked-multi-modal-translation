@@ -12,9 +12,9 @@ class LSTMModel(torch.nn.Module):
         super().__init__()
 
         self.model_rnn = torch.nn.LSTM(
-            input_size=37, hidden_size=hidden_size, bidirectional=False, batch_first=True)
+            input_size=37, hidden_size=hidden_size, bidirectional=True, batch_first=True)
         self.model_dense = torch.nn.Sequential(
-            torch.nn.Linear(  hidden_size, 1),
+            torch.nn.Linear(  hidden_size*2, 1),
             # torch.nn.ReLU(),
             # torch.nn.Linear( 128, 1),
             torch.nn.Sigmoid(),
@@ -48,7 +48,8 @@ class LSTMModel(torch.nn.Module):
                 sample = torch.Tensor(sample).to(DEVICE)
 
                 out = self.forward(sample)
-                loss = self.loss_without_reduce(out, torch.Tensor([label]))
+                label = torch.Tensor([label]).to(DEVICE)
+                loss = self.loss_without_reduce(out, label)
                 if (out > 0.5 and label == 1) or (out <= 0.5 and label == 0):
                     hits.append(1)
                 else:
@@ -69,9 +70,9 @@ class LSTMModel(torch.nn.Module):
             for sample_i, (sample, label) in enumerate(tqdm(data_train)):
                 sample = torch.Tensor(sample).to(DEVICE)
 
-                print(f"train acc: {np.average(hits_train):.2%}")
                 out = self.forward(sample)
-                loss = self.loss(out, torch.Tensor([label]))
+                label = torch.Tensor([label]).to(DEVICE)
+                loss = self.loss(out, label)
 
                 if (out > 0.5 and label == 1) or (out <= 0.5 and label == 0):
                     hits_train.append(1)
@@ -86,11 +87,14 @@ class LSTMModel(torch.nn.Module):
                 losses_train.append(loss.detach().cpu().item())
 
             losses_train = np.average(losses_train)
+            print(f"train acc:  {np.average(hits_train):.2%}%")
+            print(f"train loss: {losses_train:.2f}")
 
             # one dev step
             losses_dev, hits_dev = self.eval_dev(data_dev)
 
-            print(f"dev acc: {np.average(hits_dev):.2%}")
+            print(f"dev acc:    {np.average(hits_dev):.2%}%")
+            print(f"dev loss:   {losses_dev:.2f}")
 
             # warning: train_loss is macroaverage, dev_loss is microaverage
             logdata.append({
