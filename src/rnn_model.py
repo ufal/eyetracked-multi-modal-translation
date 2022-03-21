@@ -12,7 +12,7 @@ class LSTMModel(torch.nn.Module):
         super().__init__()
 
         self.model_rnn = torch.nn.LSTM(
-            input_size=37, hidden_size=hidden_size, bidirectional=True, batch_first=True)
+            input_size=200, hidden_size=hidden_size, bidirectional=True, batch_first=True)
         self.model_dense = torch.nn.Sequential(
             torch.nn.Linear(  hidden_size*2, 1),
             # torch.nn.ReLU(),
@@ -29,7 +29,7 @@ class LSTMModel(torch.nn.Module):
     def forward(self, x):
         seq_length = x.shape[0]
         # TODO: verify this is correct
-        x = x.reshape(1, seq_length, 37)
+        x = x.reshape(1, seq_length, 200)
 
         # take (1) the output, (2) the first sample and (3) the last item in sequence
         x = self.model_rnn(x)[0][0][-1]

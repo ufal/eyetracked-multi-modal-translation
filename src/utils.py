@@ -4,6 +4,7 @@ import pickle
 import os
 import glob
 import re
+import numpy as np
 
 def extract_amb_namb():
     import glob
@@ -80,3 +81,9 @@ def save_pickle(path, data):
     with open(path, "wb") as fwrite:
         pickler = pickle.Pickler(fwrite)
         pickler.dump(data)
+
+def argmax_n(a, n):
+    return np.argpartition(a, -n)[-n:]
+
+def argmin_n(a, n):
+    return np.argpartition(a, -n)[:n]
