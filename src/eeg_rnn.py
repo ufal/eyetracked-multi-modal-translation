@@ -11,20 +11,20 @@ import torch
 def reduce_line(line):
     label = line["sent"][0] == "amb"
     # select only relevant attributes
-    eeg = np.array(line["eeg"]).T[0:20,:]
-    print(eeg.shape)
-    out = np.array([
-        np.concatenate([
-            fft(line)[:10] for line in
-            eeg[:,i*100:(i+1)*100]
-        ])
-        for i in range(eeg.shape[1]//100)
-    ])
-    print(out.shape)
+    eeg = np.array(line["eeg"]).T[0:20,:].T
+    # it's already FFT'd
+    # out = np.array([
+    #     np.concatenate([
+    #         fft(line)[:10] for line in
+    #         eeg[:,i*100:(i+1)*100]
+    #     ])
+    #     for i in range(eeg.shape[1]//100)
+    # ])
+    # print(out.shape)
 
-    return (torch.Tensor(out), label*1)
+    return (torch.Tensor(eeg), label*1)
     
-data = read_pickle("computed/eeg_small.pkl")
+data = read_pickle("computed/eeg.pkl")
 data = [reduce_line(line) for line in data]
 # random.shuffle(data)
 data_x, data_y = zip(*data)

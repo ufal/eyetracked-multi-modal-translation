@@ -5,6 +5,7 @@ import os
 import glob
 import re
 import numpy as np
+from datetime import datetime
 
 def extract_amb_namb():
     import glob
@@ -25,6 +26,8 @@ def extract_amb_namb():
 
     # remove duplicates
     return list(set(amb)), list(set(namb))
+
+EEG_DATE_FORMAT = r"%H:%M:%S.%f"
 
 def extract_eeg():
     data = []
@@ -55,21 +58,44 @@ def extract_eeg():
             files = [f[0] for f in files if len(f) > 0 and os.path.exists(f[0])]
 
             for f, sent in zip(files, sents):
+                events_f = f.replace(".eeg", ".events")
                 with open(f, "r") as f:
                     data_eeg = [x.strip().split(",") for x in f.readlines()]
-                    if len(data_eeg) == 0:
-                        print("skipping empty EEG", user_dir, username)
-                        continue
-                    dates = [line[0] for line in data_eeg]
-                    data_eeg = [
-                        [float(x) for x in line[1:] if "/muse/elements/" not in line[-1]]
-                        for line in data_eeg
-                    ]
-                    data_eeg = [
-                        line for line in data_eeg
-                        if len(line) != 0
-                    ]
-                    data.append({"dates": dates, "user": username, "eeg": data_eeg, "sent": sent})
+                    # filter out corrupted lines
+                    data_eeg = [x for x in data_eeg if len(x) > 1]
+
+                if len(data_eeg) == 0:
+                    print("skipping empty EEG", user_dir, username)
+                    continue
+
+                with open(events_f, "r") as f:
+                    events = [x.strip().split("\t") for x in f.readlines()]
+                    time_start_text = [x[1] for x in events if x[0] == "target text presented"][0]
+                    time_start_img = [x[1] for x in events if x[0] == "present image"][0]
+                    # TODO: maybe don't replace microseconds
+                    time_start_text = datetime.strptime(time_start_text, EEG_DATE_FORMAT).replace(microsecond=0)
+                    time_start_img = datetime.strptime(time_start_img, EEG_DATE_FORMAT).replace(microsecond=0)
+
+                # print([
+                #     (line, len(line))
+                #     for line in data_eeg
+                #     if len(line[0].split(" ")) < 2
+                # ])
+                # take only time 2021-05-19 12:31:15.02
+                dates = [
+                    datetime.strptime(line[0].split(" ")[1], EEG_DATE_FORMAT)
+                    for line in data_eeg
+                ]
+                data_eeg = [
+                    [float(x) for x in line[1:] if "/muse/elements/" not in line[-1]]
+                    for line, date in zip(data_eeg, dates)
+                    if date >= time_start_text and date < time_start_img
+                ]
+                data_eeg = [
+                    line for line in data_eeg
+                    if len(line) != 0
+                ]
+                data.append({"dates": dates, "user": username, "eeg": data_eeg, "sent": sent})
 
     return data
 
