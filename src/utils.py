@@ -6,6 +6,23 @@ import glob
 import re
 import numpy as np
 from datetime import datetime
+from tqdm import tqdm
+
+def extract_et(count=None):
+    import glob
+
+    data = []
+    
+    for file in tqdm(glob.glob("./probes/*/*.et")[:count]):
+        with open(file, "r") as f:
+            sents = [x.strip().split("\t") for x in f.readlines()]
+            sents = [
+                (int(x[0]), float(x[1]), float(x[2]), float(x[3]))
+                for x in sents
+                if len(x) == 5 and x[1].strip() != '.'
+            ]
+            data.append(sents)
+    return data
 
 def extract_amb_namb():
     import glob
