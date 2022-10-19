@@ -10,10 +10,22 @@ The full description of the experiment design is in the [paper accompanying the 
   title={EMMT: A simultaneous eye-tracking, 4-electrode EEG and audio corpus for multi-modal reading and translation scenarios},
   author={Bhattacharya, Sunit and Kloudov{\'a}, V{\v{e}}ra and Zouhar, Vil{\'e}m and Bojar, Ond{\v{r}}ej},
   journal={arXiv preprint arXiv:2204.02905},
+  url={https://arxiv.org/abs/2204.02905},
   year={2022}
 }
 ```
 
+An analysis of reaction times within the context of the Stroop effect is in [a small analysis paper](https://psyarxiv.com/5qdgr):
+
+```
+@article{bhattacharya2022stroop,
+   title={Stroop Effect in Multi-Modal Sight Translation},
+   author={Bhattacharya, Sunit and Zouhar, Vilém and Kloudová, Věra and Bojar, Ondřej},
+   url={psyarxiv.com/5qdgr},
+   journal={PsyArXiv},
+   year={2022},
+}
+```
 
 ### Description of the data collected
 
@@ -69,7 +81,6 @@ The filenames have the following format:
 - ``<cond>`` refers to the condition captured by the textual stimulus. ``<cond>`` has the values of ``A`` or ``U`` corresponding to an ambiguous or unambiguous sentence, respectively. 
 - ``<cong>`` refers to the congruency between the textual stimulus and the visual stimulus. ``<cong>`` has the values of ``C``, ``I`` or ``M`` corresponding to Congruent (text and image are related), Incongruent (text and image are unrelated) and Missing (image is missing, i.e. an empty image shown).
 - ``<image_id>`` refers to the ID of the actual image presented to the participant as part of the stimulus. The image ID distinguishes between images serving for ambiguous sentences (``a...``) and unambiguous sentences (``u...``). The images can be found in the ``images/`` directory.
-
 
 
 ## Authors
