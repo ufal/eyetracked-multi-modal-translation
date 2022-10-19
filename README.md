@@ -3,11 +3,16 @@ Release version 1.0
 
 We present Eyetracked Multi-Modal Translation (EMMT), a dataset containing monocular eye movement recordings, audio data and 4-electrode wearable electroencephalogram (EEG) data of 43 participants while engaged in sight translation task supported by an image.
 
-The full description of the experiment design is in the paper accompanying the EMMT dataset:
+The full description of the experiment design is in the [paper accompanying the EMMT dataset](https://arxiv.org/abs/2204.02905):
 
->  EMMT (Eyetracked Multi-Modal Translation), a simultaneous eye-tracking, 4-electrode EEG and audio corpus for multi-modal reading and translation scenarios<br>
->  Sunit Bhattacharya, Věra Kloudová, Vilém Zouhar, Ondřej Bojar<br>
->  2022
+```
+@article{bhattacharya2022emmt,
+  title={EMMT: A simultaneous eye-tracking, 4-electrode EEG and audio corpus for multi-modal reading and translation scenarios},
+  author={Bhattacharya, Sunit and Kloudov{\'a}, V{\v{e}}ra and Zouhar, Vil{\'e}m and Bojar, Ond{\v{r}}ej},
+  journal={arXiv preprint arXiv:2204.02905},
+  year={2022}
+}
+```
 
 
 ### Description of the data collected
