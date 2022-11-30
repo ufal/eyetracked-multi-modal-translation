@@ -60,12 +60,19 @@ EMMT/
         - u...
         - 100.jpg
 
+    - preprocessed-data/
+        - README.md
+        - EEG
+        - Gaze
+        - Transcripts
 ```
 
-The folder ``probes`` contain the recordings corresponding to the probes presented to the participants. The probes are numbered in the format:``probe<xy>`` with ``<xy>`` ranging from 01 to 20. 
-The details of the 32 stimuli in the probe can be found in the file called ``probe`` inside each ``probe<xy>`` directory.
+#### Raw Data
 
-Inside each ``probe<xy>`` directory, there are four types of files corresponding to each stimuli presented to the participants:
+The folder ``probes/`` contains the raw recordings corresponding to the probes presented to the participants. The probes are numbered in the format:``probe<xy>`` with ``<xy>`` ranging from 01 to 20. 
+The details of the 32 stimuli in the probe can be found in the file called ``probe`` inside each ``probe<xy>/`` directory.
+
+Inside each ``probe<xy>/`` directory, there are four types of files corresponding to each stimuli presented to the participants:
 
 - ``.events`` contains the overall timing log
 - ``.et`` is the gaze file
@@ -82,6 +89,11 @@ The filenames have the following format:
 - ``<cong>`` refers to the congruency between the textual stimulus and the visual stimulus. ``<cong>`` has the values of ``C``, ``I`` or ``M`` corresponding to Congruent (text and image are related), Incongruent (text and image are unrelated) and Missing (image is missing, i.e. an empty image shown).
 - ``<image_id>`` refers to the ID of the actual image presented to the participant as part of the stimulus. The image ID distinguishes between images serving for ambiguous sentences (``a...``) and unambiguous sentences (``u...``). The images can be found in the ``images/`` directory.
 
+#### Preprocessed Data
+
+The folder ``preprocessed-data/`` contains the data divided into the 4 stages.
+
+The gaze and EEG recordings are in JSON format, the translations produced by the participants are manually transcribed and stored in a simple tab-delimited plain text file. Please see ``preprocessed-data/README.md`` for details on the file formats.
 
 ## Authors
 
