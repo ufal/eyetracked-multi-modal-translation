@@ -2,8 +2,9 @@
 
 * EEG 
 
-The preprocessed EEG files are divided into stages (read,translate,see,update). Corresponding to each stage, sentence-wise zipped EEG data corresponding to participants can be found.
-For each sentence (eg S001.json), the keys are comprised of participants who saw the sentence (P05,...) and for each participant, the data is presented in the following format: {time_stamp:[EEG data]}. Here EEG data corresponds to the raw reading from the four electrodes.
+The preprocessed EEG files are divided into stages (read,translate,see,update). 
+Corresponding to each stage, sentence-wise zipped EEG data corresponding to participants can be found.
+For each sentence (eg S001.json), the keys are comprised of participants who saw the sentence (P05,...) and for each participant, the data is presented in the following format: {time_stamp:[EEG data]}. Here EEG data corresponds to the raw reading from the four electrodes ([sensor1,sensor2,sensor3,sensor4]).
 
 * Gaze
 
