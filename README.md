@@ -62,9 +62,9 @@ EMMT/
 
     - preprocessed-data/
         - README.md
-        - EEG
-        - Gaze
-        - Transcripts
+        - eeg
+        - gaze
+        - translations
 ```
 
 #### Raw Data
