@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S192,A television is turned on on a wooden shelf.,U-I,not indicated,Televize je zapnuta na dřevěné skříni.,Televize je zapnuta na dřevěné skříni.
+S193,Danny looked at Andrei putting down a yellow chair.,A-N,same,Denny se podíval na Andreje když sundaval žlutou židli.,Denny se podíval na Andreje když sundaval žlutou židli.
+S194,A man inside a room is putting together a white kite.,U-N,same,Muž uvnitř místnosti dává dohromady bílou židli.,Muž uvnitř místnosti dává dohromady bílou židli.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Člověk v modrém lyžařském oblečení závodí s dvěmi dívkami na lyžích.,Člověk v modrém lyžařském oblečení závodí s dvěmi dívkami na lyžích.
+S039,A surfer is catching a wave on the ocean.,A-C,changed,Surfař chytá vlny na oceánu.,Surfař sjíždí vlny na oceánu.
+S035,A metal artwork displays a clock in the middle of a floor.,A-I,same,Železné umění ukazuje hodiny uprostřed podlahy.,Železné umění ukazuje hodiny uprostřed podlahy.
+S200,There is a date stamp of March 16th 2008.,U-N,same,Je tu poštovní známka 16. března 2008,Je tu poštovní známka z 16. března 2008
+S195,There are red cushions against a window in front of table with a table light and a bench.,A-C,changed,Jsou tam červené poličky proti oknu v před stolem se stolní lampičkou a s poličkou.,Jsou tam červené polštáře proti oknu naproti stolu se stolní lampičkou a poličkou.
+S041,A hand is holding a hotdog with ketchup mustard and onions wrapped in foil.,A-I,changed,"V ruce drží hotdog s kečupem, párkem a cibulí zabaleni do alobalu.","Ruka drží hotdog s kečupem, s párkem a cibulemi zabalenými ve fólii."
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,changed,Žena v jejím modrém lyžařském oblečení závodí s dvěmi ženami na lyžích.,Žena v jejím modrém lyžařském oblečení závodí s dvěmi ženami na lyžích.
+S042,A picture of a recently married couple is displayed behind glass.,U-I,same,Obrázek nedávno vzatého páru je zobrazen za sklem.,Obrázek nedávno vzatého páru je zobrazen za sklem.
+S040,A motorcycle racer on a track is leaning into a curve.,U-C,changed,Řidič motocyklu vjíždí do zatáčky.,Soutěžící motocyklový soutěžící na motorce vjíždí do zatáčky.
+S190,A young boy in the bed is reading a book to his little sibling.,U-C,same,Mladý chlapec v posteli čte knížku jeho mladému sourozenci.,Mladý chlapec v posteli čte knížku jeho malému sourozenci.
+S033,A girl in a dress is leaning back on a cow wearing a straw hat.,A-C,changed,Dívka v oblečení je v oblečení a nosí klobouk.,Dívka v šatech se opírá o krávu nesoucí klobouk.
+S182,There is a press box on the tennis court.,A-N,same,Je tu tlačítková krabice na tenisovém kurtu.,Je tu tlačítková krabice na tenisovém kurtu.
+S038,A group of military people is running towards a school bus.,U-N,same,Skupina militariárních lidí běží směrem ke školnímu autobusu.,Skupina militariárních lidí běží směrem ke školnímu autobusu.
+S189,Danny left the chair with a blue telescope.,A-C,same,Denny opustil židli s modrým teleskopem.,Denny opustil židli s modrým teleskopem.
+S197,A TV is showing two men in hats and women.,A-I,changed,Televize zobrazuje 2 muže v kloboucích a ženy.,Televize zobrazuje 2 muže v kloboucích a ženy.
+S037,Person airborne over a skateboard as the sun is setting.,A-N,same,Osoba přeskočila přes skateboard během západu slunce.,Osoba přeskočila přes skateboard během západu slunce.
+S188,A small boy reaches up into the kitchen sink.,U-N,same,Malý chlapec dosáhl do kuchyňské spíže.,Malý chlapec dosáhl do kuchyňské spíže.
+S079,A man falls while trying to catch a wave surfing.,A-N,same,Muž spadl během toho co se pokoušel chytnout vlnu při surfování.,Muž spadl během toho co se snažil chytit vlnu při surfování.
+S199,A man and his skateboard have been caught mid flight during a leap.,A-N,same,Muž a jeho skateboard byli chyceni uprostřed letu během bouřky.,Muž a jeho skateboard byli chyceni uprostřed letu během turbulencí.
+S185,Cars line up to coin meters on at a busy sidewalk.,U-C,changed,Auta se zařadily na počítání.,Auta se zařadila při počítání metru během na rušné.
+S198,A baseball player runs to catch a ball that has been pitched.,U-I,same,"Hráč baseballu běžel chytit míček, který byl odpálen.","Hráč baseballu běžel chytit míček, který byl odpálen."
+S184,There is a stand with information.,A-C,same,Je tam zastávka s informacemi.,Je tam zastávka s informacemi.
+S186,Water passing under a bridge that cars are driving on top of.,A-I,changed,Voda proniká pod mostem přes který jezdí auta.,Voda proudí pod mostem na kterém jezdí auta.
+S036,Eight movers are helping someone move into their new home.,U-I,changed,8 stěhováků pomáhá někomu nastěhovat do jejich nového domova.,8 stěhováků pomáhá někomu přestěhovat se do jejich nového domova.
+S183,A man is reading a book while another is holding a dog.,U-N,same,Muž čte knihu zatímco jiný drží psa.,Muž čte knihu zatímco jiný drží psa.
+S196,There is an older person passing out plates of food to young people.,U-C,changed,Je tam starší člověk dávájící talíře s jídlem mladším lidem.,Je tam starší člověk rozdávající talíře s jídlem mladým lidem.
+S034,Some friends are hand shaking in the baseball stadium.,U-C,changed,Nějací přátelé si potřásají rukou v baseballovém stadionu.,Přátelé si třesou rukou v baseballovém stadionu.
+S187,A man leans back and gets ready to fall during part of the game.,U-I,changed,Muž se vrátil a byl připraven spadnout během části hry.,Muž odstoupil a připravil se na pád během hry.
+S191,A man and his dog walk to the sink of a kitchen cluttered with objects.,A-I,changed,Muž a jeho pes šli do spíže kuchyně plné objektů.,Muž a jeho pes šli do spíže kuchyně přeplněné objektů.

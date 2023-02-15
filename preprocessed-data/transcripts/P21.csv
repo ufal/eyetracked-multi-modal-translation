@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S068,Two women and four men are playing with a white frisbee.,U-I,changed,Dvě ženy a čtyři muž hrají s bílým frisbee.,Dvě ženy a čtyři muži si hrají s bílým létajícím talířem.
+S173,A woman on skis is looking back to the person behind her.,U-C,same,Žena na lyžích se ohlíží na člověka za ní.,Žena na lyžích se ohlíží na člověka za ní.
+S072,A man is putting a coffee cup in a microwave.,U-C,same,Muž vkládá hrníček s kávou do mikrovlnky.,Muž vkládá hrníček s kávou do mikrovlnky.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Člověk v modré lyžařské kombinéze závodí s dvěma holkama na lyžích.,Člověk v modré kombinéze závodí s dvěma holkama na lyžích.
+S070,There is snow on the trees at a cross country ski race.,U-N,changed,Na stromech je sníh závodě na lyžích.,Na lyžařském závodě jsou zasněžené stromy.
+S178,There is a black TV stand with flat screen.,A-C,not indicated,Je tam stojánek na televizi s plochou obrazovkou.,Je tam černý TV set s plochou obrazovkou.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Člověk v modré kombinéze závodí s dvěma holkama na lyžích.,Člověk v modré kombinéze závodí s dvěma holkama na lyžích.
+S074,People are putting candles on a cake that is sitting on a plate.,U-I,same,"Lidé pokládají svíčky na dort, který je na stole.","Lidé dávají svíčky na dort, který je na stole."
+S069,Two boys are speaking in a classroom with desks and chairs.,A-N,same,Ve třídě se stoly a židlemi si povídají dva chlapci.,Ve třídě se stoly a židlemi si povídají dva chlapci.
+S071,There is a line of double decker buses with a clock tower in the background.,A-C,changed,Je tam kolona dvoupatrových autobusů s hodinovou věží v pozadí.,Je tam kolona dvoupatrových autobusů s hodinovou věží v pozadí.
+S080,A man is blowing into a plastic ball.,U-I,changed,Muž nafukuje plastový míč.,Muž nafukuje plastový míč.
+S177,A man is putting a turkey into the oven.,U-N,same,Muž vkládá krůtu do trouby.,Muž vkládá krocana do trouby.
+S176,There are white forms on a keyboard.,A-N,same,Na klávesnici jsou bílé formuláře.,Na klávesnici jsou bílé formuláře.
+S180,A man and a woman are shaking hands amidst a crowd by a cake.,A-I,changed,Muž a žena si podávají ruce při shromáždění u dortu.,Muž a žena si podávají ruce při shromáždění u dortu.
+S075,A young man stands pointing in the picture.,A-N,same,Na obrázku je mladý muž co ukazuje.,Na obrázku je mladý muž co který ukazuje.
+S067,The stand is stable.,A-I,not indicated,Ten stojánek se vikle.,Ten stojánek se nevikle.
+S081,Danny looked at Andrei putting down a green chair.,A-N,changed,"Dany se podíval na Andreje, jak pokládá zelenou židli.","Dany se podíval na Andreje, jak pokládá zelenou židli."
+S082,A bus waits for a person to board it on the street.,U-N,changed,Autobus čeká až do něj nastoupí člověk na silnici.,Autobus čeká na silnici až do něj nastoupí člověk.
+S181,This is a white second hand on the clock.,U-I,changed,Toto je bílá sekundová ručička na hodinách.,Toto je bílá vteřinová ručička na hodinách.
+S065,There is a knife set in a wooden block.,A-C,changed,Je tam sada nožů v dřevěném bloku.,Je tam sada nožů v dřevěném držáku.
+S179,A small child wrapped in a towel lies on a bed.,U-C,same,Na posteli leží malé dítě zamotané v ručníku.,Na posteli sedí malé dítě zabalené v ručníku.
+S078,A man is driving a boat along the river.,U-C,changed,Muž řídí loď podél řeky.,Muž kormidluje loď po řece.
+S076,A snow skier is putting on skis in the snow near a building.,U-N,changed,Lyžař si nasazuje lyže ve sněhu poblíž budovy.,Muž si vedle budovy nasazuje lyže ve sněhu.
+S172,A person is pushing a button on a television.,A-C,same,Člověk mačká tlačítka na televizi.,Člověk mačká tlačítka na televizi.
+S175,Two men are racing horses down a racing track.,U-I,same,Dva muži závodí na koních na závodním okruhu.,Dva muži závodí na koních na závodním okruhu.
+S077,There are three different cellphone models.,A-C,changed,Jsou tři různé modely telefonu.,Jsou tam tři různé modely telefonu.
+S073,This man is putting coins in a meter.,A-I,changed,Muž vkládá mince do automatu.,Muž vláda mince do parkovacího automatu.
+S063,A very crowded street sign is pointing to attractions in multiple directions.,A-N,changed,Přeplácaný ukazatel ukazuje na různé atrakce ve všech směrem.,Přeplácaný ukazatel ukazuje na atrakce v několika směrech.
+S066,A dog gets its teeth brushed by a man.,U-C,changed,Muž čistí zuby psovi.,Muž čistí psí zuby.
+S064,The girl is stretching to reach the tennis ball with her racket.,U-N,changed,Dívka se natahuje aby trefila míček tenisovou raketou.,Dívka se natahuje aby trefila tenisový míček svojí raketou.
+S079,A man falls while trying to catch a wave surfing.,A-I,changed,Surfujícíi muž spadne když se snaží chytit vlnu.,Muž spadne že surfu zatímco se snaží chytit vlnu.
+S174,A man is reaching down for something in a box.,A-I,not indicated,Muž se snaží dosáhnout na něco v krabici.,Muž se natahuje pro něco v krabici.

@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S013,The characters are chinese.,A-I,same,Postavy jsou Číňané.,Postavy jsou Číňané.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Osoba v modré kombinéze honí 2 dívky na lyžích.,Osoba v modré kombinéze povzbuzuje 2 dívky na lyžích.
+S015,There is a small kitchenette opening up to another room.,A-N,same,"Je tu malá kuchyňka, která vede do dalšího pokoje.","Je tu malá kuchyňka, která vede do dalšího pokoje."
+S030,The traffic lights stand out a lot.,U-C,changed,Semafory vystupují hodně.,Semafory jsou výrazné.
+S042,A picture of a recently married couple is displayed behind glass.,U-N,same,Za sklem je obrázek právě sezdaného páru.,<no translation recorded>
+S035,A metal artwork displays a clock in the middle of a floor.,A-N,same,Umělecké dílo z kovu zobrazuje hodiny uprostřed chodby.,<no translation recorded>
+S038,A group of military people is running towards a school bus.,U-C,changed,Skupina ozbrojených lidí běží za školním autobusem.,Skupina ozbrojených lidí běží ke školnímu autobusu.
+S025,A group of police officers is standing in front of a parade.,A-I,same,Skupina strážníků stojí v čele průvodu.,Skupina strážníků stojí v čele průvodu.
+S023,A man in a colorful umbrella hat holds an orange.,A-C,same,Muž v barevné čapce s děštníčkem drží pomeranč.,Muž v barevné čapce s děštníčkem drží pomeranč.
+S014,A man in blue shirt is sitting on a pile of luggage.,U-I,same,Muž v modré košili sedí na hromadě zavazadel.,Muž v modré košili sedí na hromadě zavazadel.
+S027,There is a bar with neon lights behind the bottles.,A-N,same,Je tam bar s neonovými světly za lahvemi.,Je tam bar s neonovými světly za lahvemi.
+S011,A young man is looking into the inside of a refrigerator through bottles.,A-C,changed,Mladý muž se dívá dovnitř ledničky skrze lahve.,Mladý muž se dívá do ledničky přes lahve.
+S029,A jogging couple is resting on benches at the pier across the city view.,A-C,same,"Pár, který byl běhat odpočívá na lavičkách nad výhledem na město.","Pár, který byl běhat odpočívá na lavičkách s výhledem na město."
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Žena v modré lyžařské kombinéze podporuje 2 dívky na lyžích.,Osoba v modré lyžařské kombinéze povzbuzuje 2 dívky na lyžích.
+S036,Eight movers are helping someone move into their new home.,U-N,same,8 stěhováků pomáhá jinému člověku nastěhovat se do nového domu.,8 stěhováků pomáhá někomu jinému nastěhovat se do nového domu.
+S018,A woman reaching to hit a tennis ball with a racquet.,U-C,same,Žena snažící se trefit tenisový míček raketou.,Žena snažící se trefit tenisový míček raketou.
+S020,This is a blue wall beside a tennis court.,U-I,same,Je to modrá zeď za tenisovým kurtem.,Je to modrá zeď za tenisovým kurtem.
+S034,Some friends are hand shaking in the baseball stadium.,U-I,same,Několik kamarádů si potřásá rukama na baseballovém stadionu.,Několik kamarádů si potřásá rukama na baseballovém stadionu.
+S016,The toy train set is set up and being photographed.,U-N,same,Zkušební set hraček je naaranžován a fotografován.,Zkušební set hraček je naaranžován a fotografován.
+S022,This is some type of a fair.,U-N,same,Tohle je nějaká pouť.,Tohle je nějaká pouť.
+S021,This is the second car in the train.,A-N,same,Tohle je druhý vagon vlaku.,Tohle je druhý vagon vlaku.
+S039,A surfer is catching a wave on the ocean.,A-I,same,Surfař se snaží chytit vlnu.,Surfař se snaží chytit vlnu.
+S019,A pregnant woman is writing on her stomach holding a yellow teddy bear.,A-I,same,Těhotná žena si hladí břicho a drží žlutého medvídka.,Těhotná žena si hladí břicho a drží žlutého medvídka.
+S040,A motorcycle racer on a track is leaning into a curve.,U-I,same,Motorkář na trati se natáčí do zatáčky.,Motorkář na trati se natáčí do zatáčky.
+S033,A girl in a dress is leaning back on a cow wearing a straw hat.,A-I,same,Dívka v šatech se opírá o krávu a má na sobě slaměný klobouk.,Dívka v šatech se opírá o krávu a má na sobě slaměný klobouk.
+S026,A woman is pointing a Wii remote right at the camera.,U-I,same,Žena míří dálkovým ovládáním přímo do kamery.,Žena míří dálkovým ovládáním přímo do kamery.
+S012,A jockey is racing on a horse in the rain.,U-C,changed,Žokej jede na koni v dešti.,Žokej jede na koni a kolem stříká voda.
+S024,There is a plate that has food sitting on a table.,U-C,changed,"Je tu talíř, na kterém je jídlo určené na stůl.","Je tu talíř, který se nachází na stole a je na něm jídlo."
+S037,Person airborne over a skateboard as the sun is setting.,A-C,changed,"Osoba, která jede na skateboardu do západu slunce.","Osoba, která dělá triky na skateboaru při západu slunce."
+S017,Danny put down the bag and the chair it is yellow.,A-C,changed,"Danny položil tašku na židli, je žlutá.","Danny položil tašku na židli, taška je žlutá."
+S028,A couple of wood signs are pointing in different directions.,U-N,same,Několik ukazatelů v lese ukazuje různými směry.,Několik ukazatelů v lese ukazuje různými směry.
+S041,A hand is holding a hotdog with ketchup mustard and onions wrapped in foil.,A-N,same,"Ruka, která drží párek v rohlíku s kečupem, hořčicí a cibulí, to vše ve fólii.","Ruka, která drží párek v rohlíku s kečupem, hořčicí a cibulí, to vše ve fólii."

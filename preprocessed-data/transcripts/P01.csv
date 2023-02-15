@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S019,A pregnant woman is writing on her stomach holding a yellow teddy bear.,A-N,same,Těhotná žena píše na svoje břicho držíc žlutého plyšáka.,Těhotná žena píše na svoje břicho držíc žlutého plyšáka.
+S012,A jockey is racing on a horse in the rain.,U-I,same,Jezdec závodí na koni ve vlaku.,Jezdec závodí na koni ve vlaku.
+S053,A man gestures over a microwave as he leans on a chair.,A-C,changed,"Muž gestikuluje před mikrovlnkou, když se opírá o židli.","Muž gestikuluje nad mikrovlnkou, když se opírá o židli."
+S001,There is a man wearing a hat sitting under a TV mounted on a wall.,A-N,changed,"Je tady muž, který má čepici. Sedí na televizi přidělané na zdi.","Je tu muž, který má na sobě čepici. Sedí pod televizí přidělanou na zdi."
+S061,A couple of women are walking down a street under a pink umbrella.,A-I,same,"Pár žen jde po ulici, drží růžový deštník.",Pár žen jde po ulici a drží růžový deštník.
+S059,A person is putting dough into an oven with a spatula.,A-C,changed,Osoba dává těsto do trouby se špachtlí.,Osoba dává těsto do trouby pomocí špachtle.
+S057,Several people in soccer uniforms running around with people and stands on the sidelines.,A-N,changed,Několik lidí v fotbalovém dresu běhají okolo dalšími lidmi a stojí na kraji hřiště.,Několik lidí ve fotbalových uniformách pobíhají okolo s dalšími lidmi a stojí na okrajích hřiště.
+S014,A man in blue shirt is sitting on a pile of luggage.,U-N,same,Muž v modré košili sedí na hromadě kufrů.,Muž v modré košili sedí na hromadě kufrů.
+S004,Some people are standing in the middle of the street lined with motorcycles.,U-C,changed,Nějací lidé stojí ve středu ulice seřazení s motorkami.,Někteří lidé postávají veprostřed ulice obložené motorkami.
+S054,An old lady wrapped in a blanket is eating food.,U-C,same,Stará paní zabalená v dece jí jídlo.,Stará paní zabalená v dece jí jídlo.
+S017,Danny put down the bag and the chair it is yellow.,A-I,same,"Denny položil tašku a židli, je žlutá.","Denny položil tašku a židli, je žlutá."
+S005,There are series of curved forms around the body.,A-I,same,Na těle je několik záhybů.,Na těle je několik záhybů.
+S058,A helmeted man is mounting his well maintained motor cycle.,U-N,changed,Muž v helmě opravuje svoji dobře udržovanou motorku.,Muž v helmě jede na svojí dobře udržované motorce.
+S060,People are reaching into a broccoli garden and picking broccoli.,U-C,same,Lidé vcházejí do brokolicové zahrady a sbírají brokolici.,Lidé vcházejí do brokolicové zahrady a sbírají brokolici.
+S003,There is a stoplight with images drawn on each of the lights.,A-C,same,Je tu dopravní světlo s obrázky namalovanými na každém světle.,Je tu dopravní světlo s obrázky namalovanými na každém světle.
+S006,There is a table set for a dinner of pizza.,U-I,same,Je tu připravený stůl pro večeři s pizzou.,Je tu připravený stůl pro večeři s pizzou.
+S002,There are a table with two cakes and champagne glasses and two women serving cake.,U-N,same,Je tu stůl s dvěma dorty a skleničkami na šampašké a dvě ženy podávají dort.,Je tu stůl s dvěma dorty a skleničkami na šampašké a dvě ženy podávají dort.
+S062,Two uniformed people are serving food to guests.,U-I,same,Dva lidé v uniformách podávají jídlo hostům.,Dva lidé v uniformách podávají jídlo hostům.
+S007,There is a red fire hydrant with a chain on a cement sidewalk.,A-N,same,Je tu červený požární hydrant s řetězem na cementovém chodníku.,Je tu červený požární hydrant s řetězem na cementovém chodníku.
+S010,This is a green court.,U-C,same,Tohle je zelený kurt.,Tohle je zelený kurt.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Osoba v modrém lyžovacím obleku pronásleduje dvě dívky na lyžích.,Osoba v modré kombinéze pronásleduje dvě dívky na lyžích.
+S018,A woman reaching to hit a tennis ball with a racquet.,U-I,same,"Žena se natahuje, aby odpinkla tenisový míč raketou.","Žena se natahuje, aby hodila míč tenisovou raketou."
+S016,The toy train set is set up and being photographed.,U-C,same,Hračka železnice se připravuje a je fotografována.,Hračka železnice se připravuje a je fotografována.
+S056,A boat is pulling a water boarder along on a lake.,U-I,same,Loď táhne vodní hranici podél jezera.,Loď táhne vodní hranici podél jezera.
+S009,Andrei looked at Danny moving a yellow chair.,A-C,same,"Andrej se podíval na Dennyho, který posouval žlutou židli.","Andrej se podíval na Dennyho, který posouval žlutou židli."
+S015,There is a small kitchenette opening up to another room.,A-C,same,Je tu malá kuchyňka otevírající se do dalšího pokoje.,Je tu malá kuchyňka otevírající se do dalšího pokoje.
+S020,This is a blue wall beside a tennis court.,U-N,same,Tohle je modrá stěna vedle tenisového kurtu.,Tohle je modrá stěna vedle tenisového kurtu.
+S055,A man is paddle boarding on a city river.,A-I,changed,Muž paddleboarduje na městské řece.,Muž paddleboarduje na řece ve městě.
+S013,The characters are chinese.,A-N,changed,Postavy jsou z Číny.,Postavy jsou čínské.
+S011,A young man is looking into the inside of a refrigerator through bottles.,A-I,same,Mladý muž se dívá dovnitř mrazáku skrze lahve.,Mladý muž se dívá dovnitř mražáku skrze lahve.
+S008,Some people are boarding a parked double decker bus on a busy street.,U-N,same,Nějací lidé nastupují do zaparkovaného dvoupatrového autobusu na rušné ulici.,Nějací lidé nastupují do zaparkovaného dvoupatrového autobusu na rušné ulici.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Osoba v její modré kombinéze pronásleduje dvě dívky na lyžích.,Osoba v její modré kombinéze pronásleduje dvě dívky na lyžích.

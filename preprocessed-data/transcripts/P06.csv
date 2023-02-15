@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S128,A man is writing something down while on a cell phone.,U-N,same,Muž si píše něco do telefonu.,Muž si píše něco do telefonu.
+S133,There is a red white and blue shelter on a populated beach.,A-N,same,"Na pláži je červený, bílý a modrý deštník na osídlené pláži.","Je tam červený, bílý a modrý deštník na osídlené pláži."
+S132,A man and a woman are showing off their food.,U-I,same,Muž a žena si ukazují jídla.,Muž a žena si ukazují jídla.
+S126,The people move about and congregate in the public area next to the large white tent.,U-I,same,Lidé se přesunuli a shromáždili u veřejného místa poblíž velkého bílého stanu.,Lidé se posunuli a shromáždili u shromáždili se na veřejném místě vedle velkého bílého stanu.
+S147,There is a beer resting on the seat of a motorcycle.,A-C,same,Na sedadle motorky je položené pivo.,Na sedadle motorky je položené pivo.
+S145,A man reaches with a racket to return a tennis ball.,A-N,same,"Muž přiskočil s raketou, aby mohl vrátit tenisový míček.","Muž přiskočil s raketou, aby mohl odpálit tenisový míček."
+S146,Several people are pushing a truck from the dirt onto the road.,U-N,same,Několik lidí tlačí náklaďák z hlíny na silnici.,Několik lidí tlačí náklaďák z hlíny na silnici.
+S131,There is a professional speaker on the stage pointing out his coworker.,A-I,same,"Na jevišti je profesionální řečník, který ukazuje na jeho spolupracovníky.","Na jevišti je profesionální řečník, který ukazuje na jeho spolupracovníka."
+S142,A table is set up with wine glasses and a cake.,U-C,changed,"Stůl je vybaven sklenicí, lahvemi vína dezertem.",Na stole je dort a sklenice vína.
+S141,Many large pots have been set beside large spoons.,A-C,same,Mnoho velkých hrnců bylo položeno za velké lžíce.,Mnoho velkých hrnců bylo položeno za velké lžíce.
+S130,There are silver springs on the side of a bike.,U-C,same,Na straně kola jsou stříbrné proužky.,Na motrce jsou na straně motorky jsou stříbrné proužky.
+S127,Andrei and Danny picked up a yellow bag.,A-N,same,Andrej a Danny sebrali žlutý batoh.,Andrej a Danny sebrali žlutý batoh.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,not indicated,.,.
+S140,A young boy is putting ingredients into a blender.,U-N,same,Mladý muž dává ingredience do mixéru.,Mladý muž dává ingredience do mixéru.
+S149,A woman with a dog is talking to two people sitting on a bench.,A-I,same,Žena se psem mluví se dvěma lidmi sedícími na lavičce.,Žena se psem mluví se dvěma lidmi sedícími na lavičce.
+S148,Two men are snow skiing and one has fallen down.,U-C,same,Dva muži lyžují a jeden spadnul.,Dva muži lyžují a jeden spadnul.
+S136,A group of men is using poles to push themselves on skateboards.,U-C,changed,"Skupina mužů používá hůlky, aby se posunuli na skateboardu.","Skupina mužů používá tyče, aby mohli jezdit na skateboardu."
+S134,The two people are riding on a black bike.,U-N,same,Dva lidé jezdí na černém kole.,Dva lidé jezdí na černém kole.
+S135,There are streamers and ribbon suspended by lights hanging from a ceiling.,A-C,changed,<no translation recorded>,Fáborky jsou pověšené za světla stropu.
+S125,A man is pushing a wheelchair on the street.,A-I,same,Muž tlačí invalidní vozík na ulici.,Muž tlačí invalidní vozík na ulici.
+S144,This is a fryer that moves donuts down the fryer.,U-I,changed,"Friťák, který posouvá koblihy dolů po.","Je to friťák, který posouvá koblihy dolů."
+S138,There is a woman in a seat with hair blowing in the wind.,U-I,same,"Na sedadle je žena, jejíž ženy vlají po větru.","Na sedadle je žena, jejíž vlasy vlají po větru."
+S152,There are balconies on the second storey of the buildings.,U-N,same,Na druhé straně budov jsou balkony.,Na druhé straně budov jsou balkony.
+S151,Several people are sitting around a table in a small room with a laptop books and papers.,A-N,same,"Několik lidí sedí dokola stolu v malé místnosti s notebookem, knihami a papírem.","Několik lidí sedí okolo stolu v malé místnosti s počítačem, knihami a papíry."
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,.,.
+S150,A person lights a candle that is on a piece of cake.,U-I,same,"Osoba zapálila svíčku, která je na kusu dortu.","Osoba zapálila svíčku, která je na kusu dortu."
+S137,A yellow and blue train is pulling into a train station.,A-I,same,Žlutý a modrý vlak přijíždějí do vlakové zastávky.,Žlutý a modrý vlak přijíždějí do vlakové zastávky.
+S124,A young woman is holding a freshly pulled carrot up in the air.,U-C,same,Mladá žena drží čerstvě vytrženou mrkev ve vzduchu.,Mladá žena drží čerstvě vytrženou mrkev ve vzduchu.
+S123,Some cows are painted with pink and purple dots.,A-C,changed,Některé krávy mají na své kůži růžeové nebo fialové tečky.,Některé krávy mají na své kůži růžové a fialové tečky.
+S143,A television screen is displaying a cow in a wooded area.,A-I,same,Televizní obrazovka zobrazuje krávu v dřevnatém prostředí.,Televizní obrazovka zobrazuje krávu v dřevnatém prostředí.
+S129,Two women are kissing a man for a photograph.,A-C,changed,Dvě ženy líbají muže kvůli foťáku.,Dvě ženy dávají pusu muži kvůli fotce.
+S139,A modern building has a long table holding many fruits and vegetables.,A-N,same,Moderní budova má velký stůl s hodně ovocem a zeleniny.,Moderní budova má velký stůl s hodně ovocem a zeleniny.

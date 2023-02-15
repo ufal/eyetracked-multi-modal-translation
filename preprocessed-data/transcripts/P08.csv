@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S037,Person airborne over a skateboard as the sun is setting.,A-N,same,"Člověk letí nad skateboardem, zatímco slunce zapadá.","Člověk letí nad skateboardem, zatímco slunce zapadá."
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Osoba žena v modrém lyžařském oděvu závodí se dvěma holkami na lyžch.,Žena ve svém modrém lyžařském oděvu závodí se dvěma dívkami na lyžích.
+S183,A man is reading a book while another is holding a dog.,U-N,same,"Muž čte knihu, zatímco jiný muž drží psa.","Muž čte knihu, zatímco jiný muž drží psa."
+S199,A man and his skateboard have been caught mid flight during a leap.,A-N,same,Muž a jeho skateboard zavadili o něco uprostřed letu.,Muž a jeho skateboard zavadili o něco uprostřed letu.
+S190,A young boy in the bed is reading a book to his little sibling.,U-C,same,Mladý kluk čte v posteli knížku mladšímu sourozenci.,<no translation recorded>
+S042,A picture of a recently married couple is displayed behind glass.,U-I,same,Obrázek čerstvě oženěného páru je zobrazen za sklem.,Obrázek čerstvě oženěného páru je zobrazen za sklem.
+S185,Cars line up to coin meters on at a busy sidewalk.,U-C,same,Auta se řadí k automatům na parkovné na rušném chodníku.,<no translation recorded>
+S192,A television is turned on on a wooden shelf.,U-I,same,Televize je zapnutá a je postavená na dřevěném kusu nábytku.,Televize je zapnutá a je postavená na dřevěném kusu nábytku.
+S033,A girl in a dress is leaning back on a cow wearing a straw hat.,A-C,same,"Dívka oděná v čatehc se opírá o krávu, která nosí má na sobě slaměn klobouk.","Žena oděná v šatech se opírá o krávu, která má na sobě slaměný klobouk."
+S195,There are red cushions against a window in front of table with a table light and a bench.,A-C,changed,"O okno jsou opřeny červené polštáře, stojí před stolem, na kterém je lampička a lavička.","Před oknem jsou červené polštáře a stůl, na kterém je lampička a lavička."
+S193,Danny looked at Andrei putting down a yellow chair.,A-N,changed,"Denny se podíval na Andreje, který pokládal žlutou židli.","Denny se díval na Andreje, který pokládal žlutou židli."
+S188,A small boy reaches up into the kitchen sink.,U-N,changed,Malý chlapec se snaží dosáhnout do umyvadla v kuchyni.,Malý chlapec se snaží sáhnout do umyvadla v kuchyni.
+S035,A metal artwork displays a clock in the middle of a floor.,A-I,same,Kovové umělecké dílo zobrazuje hodiny uprostřed podlahy.,Kovové umělecké dílo zobrazuje hodiny uprostřed podlahy.
+S200,There is a date stamp of March 16th 2008.,U-N,not indicated,"Je tady razítko, které má na sobě vyznačené datum šestnáctého března dva tisíce osm.","Je tady razítko, na kterém je vyznačeno datum šestnáctého března dva tisce osm."
+S197,A TV is showing two men in hats and women.,A-I,same,V televizi ukazují dva muže v kloboucích a ženy.,V televizi ukazují dva mjže v kloboucích a ženu.
+S041,A hand is holding a hotdog with ketchup mustard and onions wrapped in foil.,A-I,same,"Ruka drží párek v rohlíku s kečupem, hořčicí a cibulí, zabalený v alobalu.","Ruka drží párek v rohlíku s kečupem, hořčicí a cibulí, obalený v alobalu."
+S034,Some friends are hand shaking in the baseball stadium.,U-C,changed,Partička kamarádů se zdraví pohybem ruky na baseballovém stadionu.,Partička kamarádů si třese rukou uprostřed baseballového stadionu.
+S198,A baseball player runs to catch a ball that has been pitched.,U-I,same,"Baseballový hráč běží za míčkem, který byl vystřelen.","Baseballový hráč běží za míčkem, který byl vystřelen."
+S189,Danny left the chair with a blue telescope.,A-C,same,Denny opustil křeslo s odrým teleskopem.,Denny opustil křeslo s modrým teleskopem.
+S040,A motorcycle racer on a track is leaning into a curve.,U-C,same,Motorkář na dráze se naklání do zatáčky.,Motorkář na dráze se naklání do zatáčky.
+S079,A man falls while trying to catch a wave surfing.,A-N,same,"Muž upadne, zatímco surfuje na vlnách.","Muž upadne, zatímco surfuje na vlnách."
+S038,A group of military people is running towards a school bus.,U-N,changed,Parta vojáků běží naproti školnímu autobusu.,Partička vojáků běží ku školnímu autobusu.
+S196,There is an older person passing out plates of food to young people.,U-C,same,"Tady je starý starší člověk, který vydává jídlo talíře s jídlem mladým lidem.","Tady je starší postarší člověk, který dává talíře s jídlem mladším lidem."
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Osoba v modrém lyžařském oděvu závodí s dvěma holkami na lyžích.,Osoba v modrém oděvu závodí se dvěma dívkami na lyžích.
+S184,There is a stand with information.,A-C,same,Je tady stojan s informacemi.,Je tady stojan s informacemi.
+S194,A man inside a room is putting together a white kite.,U-N,same,Muž uvnitř pokoje dává dohromady žlutého draka.,Muž uvnitř pokoje dává dohromady bílého draka.
+S186,Water passing under a bridge that cars are driving on top of.,A-I,changed,Pod mostem pluje voda a na mostě jezdí auta.,"Tam je most, pod kterým teče voda a na mostě jezdí auta."
+S191,A man and his dog walk to the sink of a kitchen cluttered with objects.,A-I,same,"Muž a jeho pes jdou ke dřezu v kuchyni, který je zanesen předměty.","Muž a jeho pes jdou k umyvadlu kuchyně, které je plno objektů."
+S039,A surfer is catching a wave on the ocean.,A-C,same,Surfař surfuje na vlnách oceánu.,Surfař surfuje na vlně uprostřed v oceánu.
+S036,Eight movers are helping someone move into their new home.,U-I,same,Osm stěhováků pomáhá stěhovat se do náslendíkova nového domu.,Osm stěhováků se snaží pomoci někomu přesunout se do následník nového domu.
+S187,A man leans back and gets ready to fall during part of the game.,U-I,same,"Muž se pírá dozadu a připravuje se na to, že přepadne během hry.","Muž se opírá a připravuje se na to, že přepadne během hry."
+S182,There is a press box on the tennis court.,A-N,same,Na tenisovém hřišti je krabice pro tisk.,Na tenisovém hřišti je krabice pro tisk.

@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S165,A man hit something that exploded with a bat.,A-I,changed,"Muž se něčeho dotkl, a to explodovalo spolu s netopýrem.","Muž se něčeho dotkl, a to vybuchlo."
+S068,Two women and four men are playing with a white frisbee.,U-C,same,Dvě ženy a čtyři muži hrají s bíl/si hrají s bílým frisbee.,Dvě ženy a čtyři muži si hrají s bílým frisbee.
+S171,There is a man holding roses next to a woman holding a cake.,A-I,same,Muž má růže a vedle něj žena má dort.,Muž drží růže a vedle něho žena má dort.
+S163,The date is orange.,A-C,same,Datum je oranžové.,Datum je oranžové.
+S070,There is snow on the trees at a cross country ski race.,U-I,same,Během běžkařského závodu je na stromech sníh.,Během běžkařského závodu je na stromech sníh.
+S166,A man takes a selfie as he opens his new computer.,U-I,same,Muž otevírá svůj nový počítač a dělá selfie.,Muž otevírá svůj nový počítač a dělá selfie.
+S071,There is a line of double decker buses with a clock tower in the background.,A-N,same,Vidíme řadu dvoupatrových autobusů a na pozadí je hodinová věž.,Vidíme řadu dvoupatrových autobusů a na pozadí je hodinová věž.
+S038,A group of military people is running towards a school bus.,U-I,same,Skupina ozbrojených lidí běží ke školnímu autobusu.,Skupina ozbrojených lidí běží ke školnímu autobusu.
+S177,A man is putting a turkey into the oven.,U-I,same,Muž dává krocana do trouby.,Muž dává krocana do trouby.
+S167,Adult carrying a child in full gear including skiis at the bottom of a ski slope.,A-N,same,Dospělý člověk nese dítě a lyže pod sjezdovkou.,Dospělý člověk nese dítě a lyže pod sjezdovkou.
+S066,A dog gets its teeth brushed by a man.,U-N,same,Člověk čistí psovi zuby.,Člověk čistí psovi zuby.
+S173,A woman on skis is looking back to the person behind her.,U-N,same,Žena na lyžích se dívá na osobu za ní.,Žena na lyžích se dívá na osobu za ní.
+S067,The stand is stable.,A-C,changed,Stánek je stabilní.,Podstavec je stabilní.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Člověk v modré lyžařské kombinéze dohání dvě dívky na lyžích.,Člověk v modré lyžařské kombinéze dohání dvě dívky na lyžích.
+S181,This is a white second hand on the clock.,U-C,changed,Toto je bílý secondhand na hodinách.,Toto je bílá vteřinová/toto je bílá hodinová ručička na hodinách.
+S172,A person is pushing a button on a television.,A-N,same,Osoba mačká tlačítko na televizi.,Osoba mačká tlačítko na televizi.
+S069,Two boys are speaking in a classroom with desks and chairs.,A-I,same,"Dva kluci si povídají ve třídě, kde jsou lavice a židle.","Dva kluci si povídají ve třídě, kde jsou lavice a židle."
+S064,The girl is stretching to reach the tennis ball with her racket.,U-I,same,"Dívka se protahuje tím, že se snaží dosáhnout tenisového míčku její raketou.","Dívka se prota/protahuje tím, že se snaží dosáhnout tenisového míčku její raketou."
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Žena v modré lyžařské kombinéze dohání dvě dívky na lyžích.,Žena v modré lyžařské kombinéze dohání dvě dívky na lyžích.
+S170,There is a man sitting on a cement block.,U-C,changed,"Je tam člověk, který sedí na cementové ploše.","Na obrázku je muž, který sedí na cementové kostce."
+S180,A man and a woman are shaking hands amidst a crowd by a cake.,A-C,changed,Žena a muž si potřásají rukou před davem lidí okolo dortu.,Žena a muž si potřásají rukama před zraky ostatních lidí u dortu.
+S178,There is a black TV stand with flat screen.,A-N,changed,Na obrázku je černý podstavec na televizi s úzkou obrazovkou.,Na obrázku je černý podstavec na televizi s tenkou obrazovkou.
+S179,A small child wrapped in a towel lies on a bed.,U-N,same,Malé dítě zabalené v ručníku leží na posteli.,Malé dítě zabalené v ručníku leží na posteli.
+S065,There is a knife set in a wooden block.,A-N,same,V dřevěném šuplíku je set nožů.,V dřevěném šuplíku je set nožů.
+S168,There are two foods and one drink set on the clear table.,U-N,same,Na světlém stole jsou dva kusy jídla a jeden nápoj.,Na světlém stole jsou dva kusy jídla a jeden nápoj.
+S169,There is a stand in the room.,A-C,changed,V pokoji je polička.,V pokoji je věšák.
+S176,There are white forms on a keyboard.,A-I,same,Na klávesnici jsou bílá tlačítka.,Na klávesnici jsou bílá tlačítka.
+S175,Two men are racing horses down a racing track.,U-C,same,Dva muži jedou na koních na závodní dráze.,Dva muži jedou na koních na závodní dráze.
+S072,A man is putting a coffee cup in a microwave.,U-N,same,Muž dává kávu do mikrovlnky.,Muž dává kávu do mikrovlnky.
+S174,A man is reaching down for something in a box.,A-C,changed,Muž se sklání pro něco v krabici.,Muž se sklání pro něco z krabice.
+S164,A hotdog is wrapped up in some foil.,U-C,same,Párek v rohlíku je zabalen v nějaké fólii.,Párek v rohlíku je zabalen v nějaké fólii.
+S063,A very crowded street sign is pointing to attractions in multiple directions.,A-I,same,Ukazatel na velmi rušné ulici ukazuje na atrakce do různých směrů.,Ukazatel na velmi rušné ulici ukazuje na atrakce do různých směrů.
