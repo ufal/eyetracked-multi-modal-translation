@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S002,There are a table with two cakes and champagne glasses and two women serving cake.,U-U,same,Je tady stůl se dvěma dorty a sklenicemi se šampaňským a dvěma ženami servírujícími dort.,Je tady stůl se dvěma dorty a sklenici se šampaňským a dvěma ženami servírujícími dort.
+S006,There is a table set for a dinner of pizza.,U-R,same,Je tady stůl prostřený na večeři s pizzou.,Je tady stůl prostřený na večeři s pizzou.
+S010,This is a green court.,U-N,same,To je zelený dvůr.,To je zelený dvůr.
+S008,Some people are boarding a parked double decker bus on a busy street.,U-U,same,Lidé nastupují do zaparkovaného dvouposchoďového autobusu na rušné ulici.,Lidé nastupují do zaparkovaného dvoupatrového autobusu na rušné ulici.
+S057,Several people in soccer uniforms running around with people and stands on the sidelines.,A-U,same,Několik lidí ve fotbalových dresech běhají okolo s lidmi a stojí na krajích.,Několik lidí ve fotbalových uniformách pobíhá okolo s lidmi a stojí po krajích.
+S058,A helmeted man is mounting his well maintained motor cycle.,U-U,same,Muž v helmě montuje svou dobře spravovanou motorku.,Muž v helmě montuje svou dobře spravovanou motorku.
+S007,There is a red fire hydrant with a chain on a cement sidewalk.,A-U,same,Je tady červený požární hydrant s řetězem na cementovém chodníku.,Je tady červený požární hydrant s řetězem na cementovém chodníku.
+S056,A boat is pulling a water boarder along on a lake.,U-R,changed,Loď táhne vodního sportovce po jezeru.,Loď táhne vodního surfaře po jezeru.
+S009,Andrei looked at Danny moving a yellow chair.,A-N,same,Andrej se podíval na Denyho pohybující žlutou židlí.,Andrej se podíval na Denyho pohybujícího žlutou židlí.
+S052,This is the second highest rail of the jump.,U-U,same,Toto je druhá největší výška skoku.,Toto je druhá největší výška skoku.
+S003,There is a stoplight with images drawn on each of the lights.,A-N,same,Je tady semafor s obrázky nakreslenými na každém světle.,Je tady semafor s obrázky nakreslenými na každém světle.
+S043,A man is moving an oven using a dolly.,A-R,changed,Muž pohybuje troubou pomocí panenky.,Muž pohybuje troubou pomocí rudlu.
+S001,There is a man wearing a hat sitting under a TV mounted on a wall.,A-U,same,Je tady muž v klobouku sedící pod televizí namontovanou na zdi.,Je tady muž s kloboukem sedící pod televizí namontovanou na zdi.
+S048,A bunch of buses are driving along a road with cars.,U-N,same,Řada autobusů jede ulicí spolu s auty.,Řada autobusů jede ulicí spolu s auty.
+S061,A couple of women are walking down a street under a pink umbrella.,A-R,changed,Několik žen jde ulicí pod růžovým deštníkem.,Pár žen jde ulicí pod růžovým deštníkem.
+S054,An old lady wrapped in a blanket is eating food.,U-N,same,Stará žena zabalená do deky jí.,Stará žena zabalená do deky jí.
+S044,A very attractive young woman is turning on the water in the shower.,U-R,same,Velice atraktivní mladá žena zapíná vodu ve sprše.,Velmi atraktivní mladá žena zapíná vodu ve sprše.
+S005,There are series of curved forms around the body.,A-R,not indicated,Na těle je série křivek.,Na těle jsou zakřivené formy.
+S059,A person is putting dough into an oven with a spatula.,A-N,same,Osoba dává těsto do trouby se spatulí.,Osoba dává těsto do trouby se spatulí.
+S055,A man is paddle boarding on a city river.,A-R,same,Muž paddleboarduje na městské řece.,Muž paddleboarduje na městské řece.
+S049,There is a couple of people with bags standing on a escalator.,A-R,changed,Skupina lidí s taškami stojí na eskalátoru.,Skupina lidí se zavazadly stojí na eskalátoru.
+S060,People are reaching into a broccoli garden and picking broccoli.,U-N,same,Lidé vstupují do brokolicové zahrádky a sbírají brokolici.,Lidé vstupují do brokolicové zahrádky a sbírají brokolici.
+S046,A small compact car is driving past a furniture store.,U-U,same,Malé kompaktní auto jede kolem obchodu s nábytkem.,Malé kompaktní auto jede okolo obchodu s nábytkem.
+S062,Two uniformed people are serving food to guests.,U-R,same,Dva lidé v uniformách servírují jídlo hostům.,Dva uniformovaní lidé servírují jídlo hostům.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Osoba v její modré lyžařské kombinéze závodí se dvěma dívkami na lyžích.,Osoba v její modré kombinéze závodí se dvěma dívkami na lyžích.
+S004,Some people are standing in the middle of the street lined with motorcycles.,U-N,same,Nějací lidé stojí uprostřed ulice v řadě s motocykly.,Nějací lidé stojí uprostřed ulice v řadě s motocykly.
+S053,A man gestures over a microwave as he leans on a chair.,A-N,same,"Muž gestikuluje na mikrovlnku, zatímco je položený v židli.","Muž gestikuluje na mikrovlnku, zatímco je položený v židli."
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Osoba v modré lyžařské kombinéze závodí se dvěma dívkami na lyžích.,Osoba v modré lyžařské kombinéze závodí se dvěma dívkami na lyžích.
+S045,There is a clock on a building with people painted around it.,A-U,same,Na budově jsou hodiny s lidmi namalovanými okolo.,Na budově jsou hodiny s lidmi namalovanými okolo.
+S047,This is a wooden bowl of bananas that someone has drawn faces on.,A-N,same,"Je tady dřevěná mísa s banány, na které někdo namaloval obličeje.","Je tu dřevěná mísa s banány, na které někdo namaloval obličeje."
+S051,There is a public transit bus on a city street covered in snow.,A-U,same,Je tady autobus veřejné dopravy na městské ulici pokryté sněhem.,Je tady autobus veřejné dopravy na městské ulici pokryté sněhem.
+S050,There is a banana on the stand.,U-R,same,Ve stánku je banán.,Ve stánku je banán.

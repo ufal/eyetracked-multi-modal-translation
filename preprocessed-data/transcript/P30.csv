@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S134,The two people are riding on a black bike.,U-U,same,"Dva lidé jedou, nebo řídí, černé kolo.",Dva lidé řídí černé kolo.
+S137,A yellow and blue train is pulling into a train station.,A-R,changed,Žlutý a modrý vlak vjíždí do vlakové stanice.,Žlutomodrý vlak právě jako přijel do vlakové stanice.
+S193,Danny looked at Andrei putting down a yellow chair.,A-U,same,"Deny se díval na Andreje, jak dává dolů žlutou židli.","Deny se dívá na Andreje, jak dává dolů žlutou židli."
+S131,There is a professional speaker on the stage pointing out his coworker.,A-R,changed,Je tam profesionální jako řečník na jevišti ukazující na svého spolupracovníka.,"Je t/Na jevišti je profesionální řečník, který ukazuje na svého spolupracovníka."
+S141,Many large pots have been set beside large spoons.,A-N,same,"Hodně malých jako květináčů je, jako je položeno vedle velkých lžící.","Hodně velkých květináčů bylo položeno, nebo bylo dáno, vedle velkých lžící."
+S191,A man and his dog walk to the sink of a kitchen cluttered with objects.,A-R,changed,"Muž a jeho pes šli k umyvadlu/kuchyňskému umyvadlu, které bylo plné jako objektů/předmětů.","Muž šel se svým psem k kuchyňskému dřezu, které byl plný jako objektů/předmětů."
+S138,There is a woman in a seat with hair blowing in the wind.,U-R,changed,"Je tam žena v sedadle s vlasama, který jí ofoukává vítr.",Je tam žena sedící v sedadle a vlas a do vlasů jí fouká vítr.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,changed,Člověk v modrém lyžařském sobleku závodí dvě holky na lyžích.,Jedinec ve svém modrém lyžařském obleku závodí s dvěma ženami na lyžích.
+S133,There is a red white and blue shelter on a populated beach.,A-U,same,"Je tam červená, bílá, modrá polička na zalidněné pláži.","Je tam červená, bílá a modrá polička na zalidněné pláži."
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Člověk v modrém lyžařském obleku závodí s dvěmi ženami na lyžích.,Člověk v modrém lyžařském jako obleku závodí s dvěma ženami na běžkách.
+S195,There are red cushions against a window in front of table with a table light and a bench.,A-N,same,Jsou tam červené polštářky naproti oknu před stolem jako stolní lampičkou.,Jsou tam červené polštářky naproti oknu a před stolem se stolní lampičkou.
+S194,A man inside a room is putting together a white kite.,U-U,same,Muž v místnosti dává dohromady bílou,Muž v místnosti dává dohromady bílou.
+S140,A young boy is putting ingredients into a blender.,U-U,same,Mladý kluk dává ingredience do míchače.,Mladý kluk dává ingredience do mixéru.
+S130,There are silver springs on the side of a bike.,U-N,same,Jsou tam stříbrné jako třás třásně na straně kola.,Jsou tam stříbrné jako kusy papíru na na straně kola.
+S198,A baseball player runs to catch a ball that has been pitched.,U-R,changed,"Hráč baseballu běží, aby chytil míč, který byl jako odpálen.","Hráč baseballu běží, aby chytil odpálený míček."
+S200,There is a date stamp of March 16th 2008.,U-U,same,Je tam datová známka 16. března 2008.,"Je tam razítko datumem, 16. března 2008."
+S132,A man and a woman are showing off their food.,U-R,changed,Muž a žena ukazují jejich jídlo.,Muž se ženou představují jejich jídlo.
+S192,A television is turned on on a wooden shelf.,U-R,changed,Televize je zapnutá na dřevěné poličce.,Zapnutá televize je na dřevěné poličce.
+S127,Andrei and Danny picked up a yellow bag.,A-U,same,Andrej a Deny zvedli žlutou tašku.,Andrej a Deny zvedli žlutou tašku.
+S197,A TV is showing two men in hats and women.,A-R,changed,Televize ukazuje dva muže v kloboucích a ženu.,V televizi jsou dva muži v čepicích a jedna žena.
+S196,There is an older person passing out plates of food to young people.,U-N,same,Je tam starší člověk podávající talíře s jídlem mladým lidem.,Je tam starší člověk podávající talíř s jídlem mladým lidem.
+S123,Some cows are painted with pink and purple dots.,A-N,same,Některé krávy jsou natřené růžovými a fialovými tečkami.,Některé krávy jsou natřeny růžovými a fialovými tečkami.
+S129,Two women are kissing a man for a photograph.,A-N,same,Dvě ženy dávají pusu muži pro fotku.,Dvě ženy dávaji pusu muži pro fotku.
+S124,A young woman is holding a freshly pulled carrot up in the air.,U-N,same,Mladá žena drží čerstvě vyndanou mrkev ve vzduchu.,Mladá žena drží čerstvě vyndanou mrkev ve vzduchu.
+S199,A man and his skateboard have been caught mid flight during a leap.,A-U,same,Muž a jeho skateboard byli nachytány v polovině letu skoku.,Muž a jeho skateboard byli chyceny v průběhu letu.
+S128,A man is writing something down while on a cell phone.,U-U,same,Muž píše si něco zapisuje v průběhu telefonátu.,Muž si něco zapisuje v průběhu telefonátu.
+S135,There are streamers and ribbon suspended by lights hanging from a ceiling.,A-N,same,Jsou tam streameři a žebra vyhozeni světly houpajícími ze stropu.,"Jsou tam streameři a žebra vyhozeny světly, které visí ze stropu."
+S125,A man is pushing a wheelchair on the street.,A-R,changed,Muž tlačí kolečkovou židli na cestě.,Muž tlačí židli pro vozíčkáře po ulici.
+S136,A group of men is using poles to push themselves on skateboards.,U-N,same,"Skupina mužů používá hole, aby se posouvala na skateboardech.","Skupina mužů používá hole, aby se posouvala na skateboardech."
+S142,A table is set up with wine glasses and a cake.,U-N,same,Na stole jsou položeny vinné sklenice a dort.,Na stole jsou položeny vinné sklenice a dort.
+S126,The people move about and congregate in the public area next to the large white tent.,U-R,changed,Ti lidé se shlukují všeoh prostorách vedle velkého bílého stanu.,Lidé se shromažďují kolem velkého bílého stanu na volně přístupném prostranství.
+S139,A modern building has a long table holding many fruits and vegetables.,A-U,same,Moderní stavba má dlouhý stůl s hodně ovocem a zeleninou.,Moderní budova má dlouhý stůl s ovocem a zeleninou.

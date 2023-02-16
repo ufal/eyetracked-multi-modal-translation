@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S018,A woman reaching to hit a tennis ball with a racquet.,U-N,same,"Žena napřahujíc se tenisovou raketou, aby se trefila do míčku.","Žena napřahující se tenisovou raketou, aby se strefila do míčku."
+S006,There is a table set for a dinner of pizza.,U-N,changed,Na stole je prostřeno pro večeři s pizzou.,Na stole je prostřeno pro pizzu k večeři.
+S007,There is a red fire hydrant with a chain on a cement sidewalk.,A-R,same,Na betonovém chodníku je červený hydrant s řetězem.,Na betonovém chodníku je červený hydrant s řetězem.
+S004,Some people are standing in the middle of the street lined with motorcycles.,U-U,same,"Nějací lidé stojí uprostřed ulice, na které parkují motorky.","Nějací lidé stojí urostřed silnice, na které parkují motorky."
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Osoba v modré lyžařské kombinéze závodí s dvěmi holkami na lyžích.,Osoba v modré lyžařské kombinéze závodí s dvěmi holkami na lyžích.
+S027,There is a bar with neon lights behind the bottles.,A-U,same,Za flaškami je bar s neonovými světly.,Za flaškami je bar s neonovými světly.
+S002,There are a table with two cakes and champagne glasses and two women serving cake.,U-R,changed,Na stole jsou dva dorty a skleničky na šampaňské a dvě ženy podávají dort.,Dvě ženy podávají dort a na stole jsou dorty dva a skleničky na šampaňské.
+S021,This is the second car in the train.,A-U,same,Toto je druhý vagon vlaku.,Toto je druhý vagon vlaku.
+S020,This is a blue wall beside a tennis court.,U-R,same,Toto je modrá zeď vedle tenisového kurtu.,Toto je modrá zeď vedle tenisového kurtu.
+S012,A jockey is racing on a horse in the rain.,U-N,same,Žokej závodí na koni v dešti.,Žokej závodí na koni v děšti.
+S025,A group of police officers is standing in front of a parade.,A-R,same,Skupina policistů stojí před průvodem.,Skupina policistů stojí před průvodem.
+S014,A man in blue shirt is sitting on a pile of luggage.,U-R,same,Muž v modré košili sedí na hromadě zavazadel.,Muž v modré košili sedí na hromadě zavazadel.
+S022,This is some type of a fair.,U-U,same,Tohle je nějaký typ poutě.,Tohle je nějaký typ poutě.
+S017,Danny put down the bag and the chair it is yellow.,A-N,same,"Denny dal dolů tašku a židli, je žlutá.","Denny dal dolů tašku a židli, je žlutá."
+S009,Andrei looked at Danny moving a yellow chair.,A-U,same,"Andrej se díval na Dennyho, jak posouvá žlutou židli.","Andrej se dívá na Dennyho, jak posouvá žlutou židli."
+S013,The characters are chinese.,A-R,changed,Postavy jsou Číňané.,To písmo je čínské.
+S015,There is a small kitchenette opening up to another room.,A-U,same,"Je tam malý kuchyňský kout, který se otvírá k další místnosti.","Je tam malý kuchyňský kout, který se otvírá k další místnosti."
+S026,A woman is pointing a Wii remote right at the camera.,U-R,same,Žena ukazuje V-ovladačem přímo na kameru.,Žena ukazuje V-ovladačem přímo na kameru.
+S008,Some people are boarding a parked double decker bus on a busy street.,U-R,same,Nějací lidé nastupují do zaparkovaného double-deckeru na vytížené silnici.,Nějací lidé nastupují do zaparkovaného double-deckeru na vytížené silnici.
+S011,A young man is looking into the inside of a refrigerator through bottles.,A-N,same,Mladý muž se dívá do lednice přes flašky.,Mladý muž se dívá do lednice přes flašky.
+S028,A couple of wood signs are pointing in different directions.,U-U,same,Pár dřevěných značek ukazuje různými směry.,Pár dřevěných značek ukazuje různými směry.
+S016,The toy train set is set up and being photographed.,U-U,changed,Vláčková dráha je připravená a někdo jí fotí.,Vláčková dráha na hraní je připravená a někdo ji fotí.
+S005,There are series of curved forms around the body.,A-N,same,Kolem těla je řada zkřivených tvarů.,Kolem těla je řada zkřivených tvarů.
+S030,The traffic lights stand out a lot.,U-N,same,Semafory se hodně vyjímají.,Semafory se hodně vyjímají.
+S023,A man in a colorful umbrella hat holds an orange.,A-N,same,Muž v barvném deštníkovém klobouku drží poměranč.,Muž v barevném deštníkovém klobouku drží pomeranč.
+S029,A jogging couple is resting on benches at the pier across the city view.,A-N,same,Běžící pár odpočívá na lavičkách na molu naproti výhledu na město.,Běžící pár odpočívá na lavičkách na molu oproti výhledu na město.
+S019,A pregnant woman is writing on her stomach holding a yellow teddy bear.,A-R,same,"Těhotná žena píše na svém břiše, zatímco drří žlutého medvídka.","Těhotná žena píše na svém břiše, zatímco drží žlutého medvídka."
+S024,There is a plate that has food sitting on a table.,U-N,same,Na stole je talíř s jídlem.,Na stole je talíř s jídlem.
+S003,There is a stoplight with images drawn on each of the lights.,A-U,same,Semafor má nakreslené obrázky na každém ze svých světel.,Semafor má nakreslené obrázky na každém ze svých světel.
+S001,There is a man wearing a hat sitting under a TV mounted on a wall.,A-R,changed,"Muž s čepicí sedí pod televizí, přidělané na zdi.",Muž s čepicí sedí pod televizí na poličce.
+S010,This is a green court.,U-U,same,Tohle je zelený dvůr.,Tohle je zelený kurt.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,.,.

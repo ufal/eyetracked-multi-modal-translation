@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S128,A man is writing something down while on a cell phone.,U-U,same,"Muž si něco zapisuje, zatímco je na telefonu.","Muž si něco zapisuje, zatímco je na telefonu."
+S135,There are streamers and ribbon suspended by lights hanging from a ceiling.,A-N,same,Vlaječky a stuha jsou drženy na světlech visících ze stropu.,Vlaječky a stuha visí na světlech visoucích ze stropu.
+S129,Two women are kissing a man for a photograph.,A-N,same,Dvě ženy líbají muže kvůli fotografii.,Dvě ženy líbají muže kvůli fotografii.
+S131,There is a professional speaker on the stage pointing out his coworker.,A-R,same,Profesionální mluvčí na pódiu ukazuje na svého spolupracovníka.,Profesionální mluvčí na pódiu ukazuje na svého spolupracovníka.
+S136,A group of men is using poles to push themselves on skateboards.,U-N,same,"Skupina mužů používá tyče, aby se odrážely na skateboardech.","Skupina mužů používá tyče, aby se odrážely na skateboardech."
+S137,A yellow and blue train is pulling into a train station.,A-R,same,Žlutý a modrý vlak přijíždějí do stanice.,Žlutý a modrý vlak dorážejí do stanice.
+S127,Andrei and Danny picked up a yellow bag.,A-U,same,Andrej a Deny vzali žlutou tašku.,Andrej a Dany vzali žlutou tašku.
+S125,A man is pushing a wheelchair on the street.,A-R,same,Muž tlačí vozík na ulici.,Muž tlačí vozík na ulici.
+S126,The people move about and congregate in the public area next to the large white tent.,U-R,same,Lidé se pohybují kolem a scházejí se ve obecné oblasti vedle velkého bílého stanu.,Lidé se pohybují kolem a scházejí se ve volné oblasti vedle velkého bílého stanu.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,changed,Osoba ve svém modrém lyžařském oblečení závodí se dvěma dívkami na lyžích.,Osoba ve svém fialovém lyžařském úboru závodí se dvěma dívkami na lyžích.
+S132,A man and a woman are showing off their food.,U-R,same,Muž a žena se chlubí svým jídlem.,Muž a žena se chlubí svým jídlem.
+S200,There is a date stamp of March 16th 2008.,U-U,same,Je tam otisknuto datum šestnáctého března 2008.,Je tam otisknuto datum šestnáctého března 2008.
+S194,A man inside a room is putting together a white kite.,U-U,same,Muž v místnosti slepuje dohromady bílého draka.,Muž v místnosti slepuje dohromady bílého draka.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Osoba v modrém lyžařském úboru závodí se dvěma dívkami na lyžích.,Osoba ve fialovém lyžařském úboru závodí se dvěma dívkami na lyžích.
+S133,There is a red white and blue shelter on a populated beach.,A-U,same,"Na frekventované pláži je červený, bílý a modrý úkryt.","Na frekventované pláži je bílý, modrý červený, bílý kryt."
+S142,A table is set up with wine glasses and a cake.,U-N,same,Stůl je prostřený s vinnými sklenicemi a dortem.,Stůl je prostřený s vinnými skleničkami a dortem.
+S124,A young woman is holding a freshly pulled carrot up in the air.,U-N,same,Mladá žena drží vysoko ve vzduchu čerstvě vytáhnutou mrkev.,Mladá žena drží vysoko ve vzduchu čerstvě vytáhnutou mrkev.
+S196,There is an older person passing out plates of food to young people.,U-N,same,Starší osoba podává mladým lidem talíře jídla.,Starší osoba vydává mladým lidem talíře plné jídla.
+S140,A young boy is putting ingredients into a blender.,U-U,same,Mladý kluk dává ingredience do mixéru.,Mladý kluk dává ingredience do mixéru.
+S141,Many large pots have been set beside large spoons.,A-N,same,Mnoho velkých hrnců bylo postaveno vedle velkých lžic.,Mnoho velkých hrnců bylo postaveno vedle velkých lžic.
+S192,A television is turned on on a wooden shelf.,U-R,same,Televize je zapnutá na dřevěné skříňce.,Televize je zapnutá na dřevěné skříňce.
+S139,A modern building has a long table holding many fruits and vegetables.,A-U,same,Moderní budova má velký stůl držící mnoho ovoce a zeleniny.,Moderní budova má dlouhý stůl plný ovoce a zeleniny.
+S134,The two people are riding on a black bike.,U-U,same,Dva lidé jedou na černé motorce.,Dva lidé jedou na černé motorce.
+S199,A man and his skateboard have been caught mid flight during a leap.,A-U,same,Muž a jeho skateboard byli zachyceny během letu uprostřed skoku.,Muž a jeho skateboard byli zachyceny během letu uprostřed skoku.
+S195,There are red cushions against a window in front of table with a table light and a bench.,A-N,same,Červené polštáře jsou opřeny o okno před stolem se stolní lampou a lavičkou.,Červené polštáře jsou opřené o okno před stolem se stolní lampou a lavičkou.
+S130,There are silver springs on the side of a bike.,U-N,same,Stranách kola jsou stříbrné pružiny.,Na stranách kola jsou stříbrné pružiny.
+S197,A TV is showing two men in hats and women.,A-R,same,Televize ukazuje dva muže v čepicích a ženu.,Televize ukazuje dva muže v čepicích a ženu.
+S138,There is a woman in a seat with hair blowing in the wind.,U-R,changed,V sedadle je žena a vlas jí fouká do vlasů.,V sedadle je žena s větrem foukající do vlasů.
+S198,A baseball player runs to catch a ball that has been pitched.,U-R,same,"Hráč baseballu běží chytit míč, který byl odpálen.","Hráč baseballu běží chytit míč, který byl odpálen."
+S123,Some cows are painted with pink and purple dots.,A-N,same,Některé krávy jsou obarveny růžovými a fialovými puntíky.,Některé krávy jsou obarveny růžovými a fialovými puntíky.
+S193,Danny looked at Andrei putting down a yellow chair.,A-U,same,Deny se podíval na Andreje pokládajícího žlutou židli.,Deny se podíval na Andreje pokládajícího žlutou židli.
+S191,A man and his dog walk to the sink of a kitchen cluttered with objects.,A-R,same,Muž a jeho pes přišli k umyvadlu v kuchyni plném objektů.,Muž a jeho pes přišli k umyvadlu v kuchyni plném objektů.

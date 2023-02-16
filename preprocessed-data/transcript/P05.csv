@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S051,There is a public transit bus on a city street covered in snow.,A-U,same,Tady je městský autobus na ulici pokrytý sněhem.,Tady je autobus městské dopravy na silnici pokryté sněhem.
+S058,A helmeted man is mounting his well maintained motor cycle.,U-U,same,"Muž, který má na sobě hemlmu, opravuje svoji motorku.","Muž, který má na sobě helmu opravuje svoji motorku."
+S060,People are reaching into a broccoli garden and picking broccoli.,U-N,same,Lidé přicházejí do brokolicové zahrady a sbírají brokolici.,Lidé přicházejí do brokolicové zahrady a sbírají brokolici.
+S001,There is a man wearing a hat sitting under a TV mounted on a wall.,A-U,same,"Zde je muž, který má na sobě klobouk, sedí pod televizí namontovanou na zdi.","Tady je muž, který má na sobě klobouk a sedí pod televizí, která je namontovaná."
+S002,There are a table with two cakes and champagne glasses and two women serving cake.,U-U,same,"Zde je stůl s dvěma dorty a šampaňskými skleničkami a dvěma ženami, které servírují dort.",Tady je stůl s dvěma dorty a dvěmi skleničkami šampaňského a dvě ženy.
+S003,There is a stoplight with images drawn on each of the lights.,A-N,not indicated,Zde je stopka s obrázkem nakresleným na každým světle.,Zde je zastavující světlo s obrázkem nakresleném na každém světle.
+S007,There is a red fire hydrant with a chain on a cement sidewalk.,A-U,same,Zde je červený hydrant s řetězem na betonovém chodníku.,Zde je červený hydrant s řetězem na betonovém chodníku.
+S044,A very attractive young woman is turning on the water in the shower.,U-R,changed,Velmi atraktivní mladá žena nevim ve sprše.,Velmi atraktivní mladá žena zapíná vodu ve sprše.
+S009,Andrei looked at Danny moving a yellow chair.,A-N,same,"Andrej se podíval na Dannyho, který posouval žlutou židlí.","Andrej se podíval na Dannyho, který posouval žlutou židlí."
+S057,Several people in soccer uniforms running around with people and stands on the sidelines.,A-U,same,"Mnoho lidí ve fotbaovém olečení běhá okolo s lidmi, kteří stojí podél čáry.","Mnoho lidí ve fotbalových oblecích běhá okolo s lidmi, kteří stojí."
+S046,A small compact car is driving past a furniture store.,U-U,same,Malé kompaktní auto jede okolo obchodu.,Malé kompaktní auto jede okolo obchodu.
+S048,A bunch of buses are driving along a road with cars.,U-N,same,Pár autobusů jede cestu s autami.,Pár autobusů jede společne na cestě s autami.
+S062,Two uniformed people are serving food to guests.,U-R,same,Dva lidé v uniformě servírují jídlo pro hosty.,Dva lidé v uniformě servírují jídlo pro hosty.
+S045,There is a clock on a building with people painted around it.,A-U,same,Zde jsou hodiny na budově s lidi nakreslenými okolo toho.,Zde jsou hodiny na budově s lidmi nakreslenými okolo toho.
+S054,An old lady wrapped in a blanket is eating food.,U-N,same,Stará žena oblečená v sáčku jí jídlo.,Stará žena oblečená v sáčku jí jídlo.
+S047,This is a wooden bowl of bananas that someone has drawn faces on.,A-N,not indicated,"Toto je dřevěná miska od banánů, kterou někdo nakreslil s obličejemi.","Toto je dřevěná miska od banánů, kterou někdo nakreslil s objičejemi na."
+S061,A couple of women are walking down a street under a pink umbrella.,A-R,same,Pár žen jde dolů ulicí pod růžovým deštníkem.,Pár žen jde dolů ulicí pod růžovým slunečníkem.
+S008,Some people are boarding a parked double decker bus on a busy street.,U-U,same,Pár lidí natupuje do zaparkovaného double-dekckeru na rušné ulici.,Pár lidí nastupuje do zaparkovaného double-deckeru na rušné ulici.
+S005,There are series of curved forms around the body.,A-R,changed,Zde je série zakulacených věcí okolo těla.,Zde je série pruhů okolo těla.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Personál v modrém obleku závodí proti dvěma ženám na lyžích.,Personál v modrém lyžařském obleku závodí proti dvěma ženám na lyžích.
+S043,A man is moving an oven using a dolly.,A-R,changed,Muž hýbe s troubou používajíc nevím co.,Muž pohybuje s troubou používajíc.
+S050,There is a banana on the stand.,U-R,changed,Zde jsou banány na stole.,Zde je banán na stole.
+S053,A man gestures over a microwave as he leans on a chair.,A-N,same,"Muž gestikuluje před mikrovlnkou, když si sedá na židli.","Muž gestikuluje směrem k mikrovlnce, když si sedá na židli."
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Postava v modré lyžařské uniformě závodí proti dvěma holkám na lyžích.,Postava v modré lyžařské uniformě závodí proti dvěma holkám na lyžích.
+S004,Some people are standing in the middle of the street lined with motorcycles.,U-N,same,Někteří lidé stojí uprostředka ulici v lajně s motocykly.,Někteří lidé stojí uprostředka ulice.
+S056,A boat is pulling a water boarder along on a lake.,U-R,changed,Loď tačí hranici vody doprostředka jezera.,Loď táhne vodní skrz jezero.
+S049,There is a couple of people with bags standing on a escalator.,A-R,changed,"Zde je pár lidí, kteří stojí na eskalátorech s taškou.","Zde je pár lidí, kteří stojí na eskalátorech s taškou."
+S010,This is a green court.,U-N,same,Toto je zelený kurt.,Toto je zelený kurt.
+S059,A person is putting dough into an oven with a spatula.,A-N,same,Člověk dává něco do trouby s něčím.,Člověk dává do trouby něco s něčím.
+S006,There is a table set for a dinner of pizza.,U-R,changed,Zde je prostřen stůl pro večeři s pizzou.,Zde je stůl s pizzou k večeři.
+S052,This is the second highest rail of the jump.,U-U,changed,Toto je druhý nejvyšší můstek skoku.,Toto je druhý nejvyšší druhá nejvyšší cesta.
+S055,A man is paddle boarding on a city river.,A-R,changed,Muž jede na paddleboardu na městské řece.,Muž jede na paddleboardu na řece ve městě.

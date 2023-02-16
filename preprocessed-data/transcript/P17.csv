@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S081,Danny looked at Andrei putting down a green chair.,A-U,same,"Deny se podíval na Andreje, který pokládal na zem zelenou židli.","Deny se podíval na Andreje, který pokládal na zem zelenou židli."
+S058,A helmeted man is mounting his well maintained motor cycle.,U-R,same,Muž v helmě nasedá na svůj dobře udržovaný motocykl.,Muž v helmě nasedá na svůj dobře udržovaný motocykl.
+S053,A man gestures over a microwave as he leans on a chair.,A-U,same,Muž gestikuluje nad mikrovlnkou a naklání se na židli.,Muž gestikuluje nad mikrovlnkou a naklání se na židli.
+S048,A bunch of buses are driving along a road with cars.,U-U,same,Několik autobusů jede po silnici společně s auty.,Několik autobusů jede po silnici společně s auty.
+S078,A man is driving a boat along the river.,U-N,same,Muž řídí loď na řece.,Muž řídí loď na řece.
+S076,A snow skier is putting on skis in the snow near a building.,U-U,changed,Lyžař si blízko budovy nasazuje lyže.,Lyžař si ve sněhu blízko budovy nasazuje lyže.
+S077,There are three different cellphone models.,A-N,same,Existují tři různé typy mobilních telefonů.,Existují tři různé typy mobilních telefonů.
+S052,This is the second highest rail of the jump.,U-R,changed,Tohle je druhý nejvyšší výsledek ve skoku.,Tohle je druhý nejvyšší stupeň překážky.
+S044,A very attractive young woman is turning on the water in the shower.,U-N,changed,Atraktivní mladá žena na sebe pouští vodu ve sprše.,Velmi atraktivní mladá žena pouští vodu ve sprše.
+S051,There is a public transit bus on a city street covered in snow.,A-R,changed,"Na ulici stojí autobus veřejné hromadné dopravy, který je pokrytý sněhem.",Na ulici zasypané sněhem stojí autobus městské hromadné dopravy.
+S073,This man is putting coins in a meter.,A-R,changed,Tento muž ukládá mince.,Muž vkládá mince do přístroje.
+S054,An old lady wrapped in a blanket is eating food.,U-U,same,Starší žena zabalená v dece jí.,Starší žena zabalená v dece jí.
+S074,People are putting candles on a cake that is sitting on a plate.,U-R,changed,"Lidé dávají svíčky na dort, který stojí na talíři.",Lidé dávají svíčky na dort na talíři.
+S045,There is a clock on a building with people painted around it.,A-R,same,Na budově jsou hodiny a kolem jsou namalovaní lidé.,Na budově jsou hodiny a kolem jsou namalovaní lidé.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Člověk v modré kombinéze závodí se dvěma lyžařkami.,Člověk v modré kombinéze závodí se dvěma lyžařkami.
+S050,There is a banana on the stand.,U-N,same,Na podnose je banán.,Na podnose je banán.
+S080,A man is blowing into a plastic ball.,U-R,changed,Muž fouká do plastového míčku.,Muž nafukuje plastový míč.
+S061,A couple of women are walking down a street under a pink umbrella.,A-N,changed,Dvě ženy jdou po ulici s růžovým deštníkem.,Dvě ženy pod růžovým deštníkem jdou po ulici.
+S056,A boat is pulling a water boarder along on a lake.,U-N,same,Loď na jezeře za sebou táhne surfaře.,Loď na jezeře za sebou táhne surfaře.
+S057,Several people in soccer uniforms running around with people and stands on the sidelines.,A-R,same,Několik lidí ve fotbalové uniformě běží okolo dalších lidí a stánků na okraji stadionu.,Několik lidí ve fotbalové uniformě běží okolo dalších lidí a stánků na okraji stadionu.
+S082,A bus waits for a person to board it on the street.,U-U,changed,"Autobus čeká, než nastoupí jeden člověk.","Autobus na ulici čeká, než nastoupí jeden člověk."
+S047,This is a wooden bowl of bananas that someone has drawn faces on.,A-U,same,"Tohle je dřevěná miska s banány, na kterou někdo namaloval tváře.","Tohle je dřevěná miska s banány, na kterou někdo namaloval tváře."
+S046,A small compact car is driving past a furniture store.,U-R,same,Malé autíčko projíždí kolem obchodu s nábytkem.,Malé autíčko projíždí okolo obchodu s nábytkem.
+S062,Two uniformed people are serving food to guests.,U-N,same,Dva lidé v uniformě servíur- servírují jídlo hostům.,Dva lidé v uniformě servírují jídlo hostům.
+S049,There is a couple of people with bags standing on a escalator.,A-N,same,Na eskalátoru stojí několik lidí s taškami.,Na eskalátoru stojí několik lidí s taškami.
+S079,A man falls while trying to catch a wave surfing.,A-R,changed,"Surfař spadl, když se snažil chytit vlnu.","Surfař spadl, když se snažil najet na vlnu."
+S059,A person is putting dough into an oven with a spatula.,A-U,same,Člověk s pomocí stěrky dává těsto do trouby.,Člověk s pomocí stěrky dává těsto do trouby.
+S075,A young man stands pointing in the picture.,A-U,same,Mladý muž ukazuje na obrázek.,Mladý muž ukazuje na obrázek.
+S060,People are reaching into a broccoli garden and picking broccoli.,U-U,changed,Lidé jdou k brokolicové zahradě a sbírají brokolici.,Lidé jdou k brokolicové zahradě a sklízí brokolici.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Lyžařka v modré kombinéze závodí se dvěma lyžařkami.,Lyžařka v modré kombinéze závodí se dvěma lyžařkami.
+S055,A man is paddle boarding on a city river.,A-N,same,Muž provádí paddleboarding na místní řece.,Muž provádí paddleboarding na místní řece.
+S043,A man is moving an oven using a dolly.,A-N,same,Muž s pomocí panenky posunuje troubu.,Muž s pomocí panenky posunuje troubu.
