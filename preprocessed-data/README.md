@@ -1,14 +1,14 @@
 # EMMT Recordings Preprocessed
 
-In this directory, the recordings are reorganized so that all observations of a stimulus of a given type are aggregated and the surrounding stimuli the subject has seen are no longer easily accessible.
+In this directory, the recordings are reorganized so that all observations of a stimulus of a given type are aggregated. The surrounding stimuli the subject has seen may no longer be easily accessible.
 
 EEG and gaze data are divided into the processing stages: READ, TRANSLATE, SEE, UPDATE.
 
-Furthermore, the translations produced by the subjects were manually transcribed and all the surrounding comments were disregarded.
+Furthermore, the translations produced by the subjects were manually transcribed and all the surrounding remarks uttered by the subjects were disregarded.
 
 ## EEG 
 
-One zipped json file with EEG data is provided for each processing stage (read, translate, see, update) and input sentence (``Sxxx``).
+One json file with EEG data is provided for each processing stage (read, translate, see, update) and input sentence (``Sxxx``).
 
 The json contains a dictionary data structure with participants who saw the sentence (P05,...) as the keys.
 
@@ -22,13 +22,20 @@ At each time stamp, a tuple is provided: ``{signal,flag}``. Here ``signal`` poin
 
 ## Translations
 
-This directory contains the transcripts of the translations made by participants in stages 2 (translate) and 4 (update).
-Each file now corresponds to a participant (``Pxx``).
+This directory contains the transcripts of the translations made by participants in stages 2 (Translate) and 4 (Update).
+Each file now corresponds to a participant (``Pxx``) and the individual lines are in the order in which the stimuli were presented to the participant.
 
-The odd numbered lines contain the translation made during the translations without looking at the pictures (Stage 2) and the even numbered lined contain the translation made while looking at the pictures (Stage 4). 
-* For all the odd numbered lines the format of the annotation is:
-``<sentence_id>	<stage>	<modification_flag>	<translation>``
-Here the <modification_flag> indicates if the participant chose to change the translation (c) or keep it the same (s) during Stage 3. The value of 'n' in the <modification_flag> indicates that the participants did not explicitly indicate their choice in Stage 3.
-* For all the even numbered lines the format of the annotation is:
-``<sentence_id>	<stage>	<blank column> <translation>``
+Each line has the following tab-delimited fields:
+
+- Sentence_ID ... the ID of the sentence
+- Original ... the original English text of the source sentence
+- Congruency ...indicators if the presented text was ``A``mbiguous or ``U``nambiguous and the presented image was ``R``elated, ``U``nrelated or not provided at all (``N``eutral)
+- Choice ... the indication by the subject whether to keep the translation unchanged (``same``) or whether to update it (``changed``)
+- Translate ... the full text of the spoken translation in stage 2 (Translate)
+- Update ... the full text of the spoken translation in stage 4 (Update)
+
+Here is an example:
+```
+S004<tab>Some people are standing in the middle of the street lined with motorcycles.<tab>U-R<tab>changed<tab>Nějací lidé stojí ve středu ulice seřazení s motorkami.<tab>Někteří lidé postávají veprostřed ulice obložené motorkami.
+```
 
