@@ -26,7 +26,7 @@ The CSV has these columns:
 - timestamp in 10000ths of a second
 - X position of the gaze in screen coordinates (or empty)
 - Y position of the gaze in screen coordinates (or empty)
-- event indication as estimated by the eye tracker: ``saccade'', ``fixation'' or ``blink''
+- event indication as estimated by the eye tracker: ``saccade``, ``fixation`` or ``blink``
 
 If the particular stimulus was not recorded, e.g. due to calibration failure, the file is empty.
 
