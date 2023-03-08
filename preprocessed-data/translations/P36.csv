@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S082,A bus waits for a person to board it on the street.,U-R,changed,"Autobus čeká na osobu, která nastupuje na ulici.","Autobus čeká na ulici na osobu, která nastupuje."
+S063,A very crowded street sign is pointing to attractions in multiple directions.,A-R,changed,Značka na velmi rušné ulici ukazuje do různých směrů.,Značka na velmi rušné ulici ukazuje do mnoha směrů.
+S043,A man is moving an oven using a dolly.,A-U,same,Muž posouvá troubu a používá.,Muž hýbá s troubou.
+S048,A bunch of buses are driving along a road with cars.,U-R,changed,Skupina autobusů jede po silnici společně s autama.,Řada autobusů jede podél silnice kde jezdí auta.
+S046,A small compact car is driving past a furniture store.,U-N,same,Malé auto projíždí kolem obchodu s nábytkem.,Malé auto projíždí kolem obchodu s nábytkem.
+S072,A man is putting a coffee cup in a microwave.,U-U,same,Muž dává šálek kávy do mikrovlnky.,Muž dává šálek kávy do mikrovlnky.
+S047,This is a wooden bowl of bananas that someone has drawn faces on.,A-R,changed,Toto je dřevěná mísa s na kterou někdo nakreslil banány?,"Toto je dřevěná mísa s banány, na které někdo nakreslil obličej."
+S052,This is the second highest rail of the jump.,U-N,same,Toto je druhý nejvyšší skok.,Toto je druhý nejvyšší skok.
+S077,There are three different cellphone models.,A-U,changed,Jsou tři různé existují tři různé modely telefonu.,Jsou tři různé modely telefonů.
+S064,The girl is stretching to reach the tennis ball with her racket.,U-R,same,Ta dívka se protahuje a aby dosáhla na míček se svojí raketou.,Dívka se natahuje aby dosáhla na míček se svojí raketou.
+S081,Danny looked at Andrei putting down a green chair.,A-R,same,Deny se dívá na Audrey jak dává dolu zelenou židli.,Deny se dívá na Audrey jak dává dolu zelenou židli.
+S066,A dog gets its teeth brushed by a man.,U-U,same,Muž čistí psovi zuby.,Muž čistí psovi zuby.
+S049,There is a couple of people with bags standing on a escalator.,A-U,same,Je tu pár lidí stojících na eskalátorech se svými taškami.,Je tu pár lidí na eskalátorech stojících se svými taškami.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Osoba v modrém lyžařském obleku Závodí se dvěmi dívkami na lyžích.,Osoba v modrém lyžařském obleku Závodí se dvěmi dívkami na lyžích.
+S071,There is a line of double decker buses with a clock tower in the background.,A-U,same,Je tu řada dvoupatrových autobusů a na pozadí jsou hodiny.,Je tu řada dvoupatrových autobusů a na pozadí jsou hodiny.
+S079,A man falls while trying to catch a wave surfing.,A-N,same,Muž padá zatímco se snaží chytit vlnu během surfování.,Muž padá zatímco se snaží chytit vlnu během surfování.
+S044,A very attractive young woman is turning on the water in the shower.,U-U,same,Velmi atraktivní mladá žena si nastavuje vodu ve sprše.,Velmi atraktivní mladá žena si nastavuje vodu ve sprše.
+S045,There is a clock on a building with people painted around it.,A-N,same,Na budově jsou hodiny kolem kterých lidé malují.,Na budově jsou hodiny kolem kterých lidé malují.
+S080,A man is blowing into a plastic ball.,U-N,same,Muž fouká do plastového balonku.,Muž fouká do plastového balonku.
+S069,Two boys are speaking in a classroom with desks and chairs.,A-R,same,Dva chlapci si povídají v učebně se stoly a židlemi.,Dva chlapci si povídají v učebně se stoly a židlemi.
+S067,The stand is stable.,A-N,same,Stav je stabilní.,Stav je stabilní.
+S073,This man is putting coins in a meter.,A-N,same,Tento muž vhazuje mince do automatu.,Ten muž vhazuje mince do automatu.
+S051,There is a public transit bus on a city street covered in snow.,A-N,same,Je tu veřejný autobus a město zahalené do sněhu.,Je tu veřejný autobus a městské ulice zahalené do sněhu.
+S075,A young man stands pointing in the picture.,A-R,same,Mladý muž stojí a ukazuje na obrázek.,Mladý muž stojí a ukazuje na obrázek.
+S076,A snow skier is putting on skis in the snow near a building.,U-R,changed,Lyžař dává lyže vedle budovy.,Lyžař si nandavá lyže blízko budovy.
+S074,People are putting candles on a cake that is sitting on a plate.,U-N,same,"Lidé dávají svíčky na dort, který je na talíři.","Lidé dávají svíčky na dort, který je na talíři."
+S065,There is a knife set in a wooden block.,A-U,same,Je tu sbírka nožů v dřevěném pouzdru.,Je tu sbírka nožů v dřevěném pouzdru.
+S070,There is snow on the trees at a cross country ski race.,U-R,same,Na lyžařském závodu je sníh na stromech.,Na lyžařském závodě je sníh na stromech.
+S068,Two women and four men are playing with a white frisbee.,U-N,same,Dvě ženy a čtyři muži si hrají s bílým frisbee.,Dvě ženy a čtyři muži si hrají s bílým frisbee.
+S078,A man is driving a boat along the river.,U-U,same,Muž řídí loď na řece.,Muž řídí loď na řece.
+S050,There is a banana on the stand.,U-U,same,Stojí tu banán.,Stojí tu banán.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Osoba v modrém lyžařském obleku závodí se dvěmi dívkami na lyžích.,Osoba v modrém lyžařském obleku závodí se dvěmi dívkami na lyžích.

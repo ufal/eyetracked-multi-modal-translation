@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S092,The little girl is reaching for a piece of cake.,U-N,same,Holčička se natahuje pro kousek dortu.,Holčička se natahuje pro.
+S150,A person lights a candle that is on a piece of cake.,U-R,same,"Osoba zapálila svíčku, která se nachází na dortu.","Osoba zapálila svíčku, která se nachází na dortu."
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Osoba v modré kombinéze závodí se dvěma holčičkami na lyžích.,Osoba v modré kombinéze závodí se dvěmi ženami na lyžích.
+S091,A smiling man sits on a scooter with a little girl.,A-N,same,Usmívající se muž sedí na motorce s malou holčičkou.,Usmívající se muž sedí na motorce s malou holčičkou.
+S147,There is a beer resting on the seat of a motorcycle.,A-N,same,Na sedadle motorky je položené pivo.,Na sedadle motorky je položené.
+S084,Many motorcycles are lined up to be displayed.,U-U,same,Je tu vyrovnáno spousta motorek.,Je tu vyrovnána spousta motorek.
+S160,A baby elephant is reaching for grey bag at a zoo.,U-N,same,Slůně se v zoo natahuje po šedivé tašce.,Slůně se natahuje v zoo po šedivé tašce.
+S158,There are cars moving at a very fast speed.,U-U,same,Auta jedou velice rychle.,<no translation recorded>
+S088,This is a red tie with Peanuts characters.,U-R,changed,Tohle je červená kravata s obrázky buráků.,Tohle je červená kravata s postavičkami.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,changed,Osoba v modré kombinéze závodí se dvěmi holčičkami na lyžích.,Osoba v modré kombinéze závodí se dvěma ženami na lyžích.
+S087,There is a food truck serving calamari sandwiched between other food trucks.,A-R,same,"Mezi jinými kamiony s jídlem se nachází jeden takový kamion, který servíruje kalamáry.","Mezi kamiony s jídlem se nachází jiný takový, který servíruje kalamáry."
+S144,This is a fryer that moves donuts down the fryer.,U-R,same,"Toto je fritéza, která posouvá donuty po fritéze.","Toto je fritéza, která posouvá donuty po fritéze."
+S086,A man is turning his back on his own reflection in a mirror.,U-N,same,Muž se otáčí ke svému vlastnímu odrazu v zrcadle zády.,Muž se obrací k vlastnímu odrazu v zrcadle zády.
+S157,A man is climbing an elephant with a saddle attached.,A-U,same,"Muž leze na slona, který má na sobě sedlo.","Muž leze na slona, který má na sobě sedlo."
+S161,There are two leather sofas sitting on each side of an entertainment center.,A-R,same,Na obou stranách zábavního centra se nachází 2 kožené sedačky.,Na obou stranách zábavního centra se nachází 2 kožené sedačky.
+S162,People in hats are riding on a large elephant.,U-R,same,Lidé v kloboucích jedou na obřím slonovi.,Lidé v kloboucích jedou na obřím slonovi.
+S153,Two people are walking along the water with umbrellas.,A-N,same,Dva lidé s děštníky v rukou jdou kolem vody.,Dva lidé s děštníky v rukou jdou kolem vody.
+S145,A man reaches with a racket to return a tennis ball.,A-U,same,Muž se napřahuje k odpálení tenisového míčku raketou.,Muž se napřahuje odpálit tenisový míček raketou.
+S090,This is a black bike seat with silver springs.,U-U,same,"Toto je černé sedadlo z kola, které má stříbrné malůvky.","Toto je černé sedadlo z kola, které má stříbrné malůvky."
+S159,A red train is passing over the water on a bridge.,A-N,same,Červený vlak přejíždí po mostě přes vodu.,Červený vlak přejíždí po mostě přes vodu.
+S155,There are foreign characters on the vehicle s side.,A-R,same,Ze strany toho vozidla jsou cizí písmena.,Ze strany toho vozidla jsou cizí písmena.
+S146,Several people are pushing a truck from the dirt onto the road.,U-U,changed,Několik lidí tlačí náklaďák ze špíny na silnici.,Několik lidí tlačí náklaďák z nezpevněné cesty na zpevněnou.
+S156,A crowd of people stands and watches as guy on a horseback leads a bunch of horses behind him.,U-R,same,"Skupinka lidí stojí a pozoruje pána na koni, který za sebou vede skupinku jiných koní.","Skupina lidí stojí a pozoruje pána na koni, který za sebou vede další skupinu."
+S083,A man is swinging at a baseball with an umpire behind him.,A-U,same,Muž odpaluje míček a za sebou má něco.,Muž odpaluje baseballový míček a za sebou má něco.
+S154,A red metal frame forms the half pipe.,U-N,same,Červený kovový rám tvoří polovinu potrubí.,Červený kovový rám tvoří polovinu potrubí.
+S148,Two men are snow skiing and one has fallen down.,U-N,same,Dva muži lyžují a jeden z nich spadl.,Dva muži lyžují a jeden z nich spadl.
+S152,There are balconies on the second storey of the buildings.,U-U,same,V druhém patře budov se nachází balkóny.,V druhém patře budov se nachází balkóny.
+S149,A woman with a dog is talking to two people sitting on a bench.,A-R,same,"Žena se psem se baví se dvěma lidmi, kteří sedí na lavičce.","Žena se psem se baví se dvěma lidmi, kteří sedí na lavičce."
+S085,Andrei looked at Danny picking up a green bag.,A-N,same,"Andrej se podíval na Dannyho, který zvedal zelenou tašku.","Andrej se podíval na Dannyho, který zvedal zelenou tašku."
+S143,A television screen is displaying a cow in a wooded area.,A-R,same,Na televizní obrazovce běží kráva v zalesněné oblasti.,Na televizní obrazovce běží kráva v zalesněné oblasti.
+S151,Several people are sitting around a table in a small room with a laptop books and papers.,A-U,same,"Několik lidí sedí kolem stolu v malé místnosti s laptopem, knížkami a papíry.","Několik lidí sedí kolem stolu v malé místnosti s laptopem, knížkami a papíry."
+S089,A skier is passing two people on a snowmobile.,A-U,same,Lyžař projíždí kolem dvou lidí na .,Lyžař projíždí kolem dvou lidí na .

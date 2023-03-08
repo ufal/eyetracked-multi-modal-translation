@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S090,This is a black bike seat with silver springs.,U-R,same,Toto je černé sedlo od kola se stříbrnými pružinami.,Toto je černé sedlo od kola se stříbrnými pružinami.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,changed,Osoba v modrém lyžařském obleku závodí s dvěmi dívkami na lyžích.,Osoba ve fialovém lyžařském obleku závodí s dvěma dívkami na lyžích.
+S086,A man is turning his back on his own reflection in a mirror.,U-U,same,Muž se otáčí zády ke svému vlastnímu odrazu v zrcadle.,Muž se otáčí zády ke svému vlastnímu odrazu v zrcadle.
+S112,A city bus is driving down a crowded city street.,U-N,same,Městský autobus projíždí přeplněnou ulicí ve městě.,Městský autobus projíždí přeplněnou ulicí ve městě.
+S111,There is a man covering his eyes from sun on a motorcycle.,A-N,same,Muž na motorce si zakrývá oči před sluncem.,Muž na motorce si zakrývá oči před sluncem.
+S100,A woman points a hair drier like it is a gun.,U-N,same,"Žena míří fénem, jako by to byla zbraň.","Žena míří fénem, jako by to byla zbraň."
+S093,A tennis player runs in order to hit the ball.,A-N,same,Tenisový hráč běží zasáhnout míč.,Tenisový hráč běží zasáhnout míč.
+S095,Danny left Andrei he held a telescope.,A-R,same,"Dany opustil Andreje, který držel teleskop.","Dany opustil Andreje, který držel teleskop."
+S108,A woman is pointing at the camera while lying down.,U-R,changed,Ležící žena ukazuje na fotoaparát.,Ležící žena ukazuje na kameru.
+S089,A skier is passing two people on a snowmobile.,A-R,same,Lyžař míjí dva lidi na skútru.,Lyžař míjí dva lidi na skútru.
+S105,A boy and a girl at a table are drawing with oil pastels.,A-N,same,Chlapec a dívka u stolu kreslí s olejovými barvami.,Chlapec a dívka u stolu kreslí s olejovými barvami.
+S102,A small boy is leaning over a fence to see several lambs.,U-R,same,"Malý chlapec se naklání přes plot, aby viděl několik jehňátek.","Malý chlapec se naklání přes plot, aby viděl několik jehňátek."
+S083,A man is swinging at a baseball with an umpire behind him.,A-R,changed,Muž odpaluje baseballový míček s věží za sebou.,Muž odpaluje baseballový míček s místem pro rozhodčí za sebou.
+S101,Two cars are driving down a street next to a green bus.,A-R,same,Dvě auta jedou ulicí vedle zeleného autobusu.,Dvě auta jedou ulicí vedle zeleného autobusu.
+S087,There is a food truck serving calamari sandwiched between other food trucks.,A-N,same,"Je tu food truck, který nabízí kalamáry ve dl/mezi ostatními food trucky.","Je tu food truck, který nabízí kalamáry mezi ostatními food trucky."
+S103,The door of a second bus is open.,A-U,same,Dveře druhého autobusu jsou otevřené.,Dveře druhého autobusu jsou otevřené.
+S106,A fire hydrant has been painted like an american flag.,U-N,same,Požární hydrant byl pomalovaný jako americká vlajka.,Požární hydrant byl pomalovaný jako americká vlajka.
+S091,A smiling man sits on a scooter with a little girl.,A-U,same,Usmívající se muž sedí s malou dívkou na skútru.,Usmívající se muž sedí s malou dívkou na skútru.
+S109,Cars are driving by a gas station with a big sign.,A-U,same,Auta jedou podél benzínové pumpy s velkým nápisem.,Auta jedou podél benzínové pumpy s velkou cedulí.
+S104,A woman has her picture taken as if she is opening the door to a cabin that has bears outside it.,U-U,same,"Žena se nechala vyfotit, jak otevírá dveře od chaty, u které stojí medvědi.","Žena se nechala vyfotit, jak otevírá dveře od chaty, u které stojí medvědi."
+S088,This is a red tie with Peanuts characters.,U-N,same,"Toto je červená kravata, na které jsou postavy z peanuts.","Toto je červená kravata, na které jsou postavy z peanuts."
+S107,A cameraperson is pointing a camera and mic at a speaker.,A-R,same,Kameraman míří s kamerou a mikrofonem na mluvčího.,Kameraman míří s kamerou a mikrofonem na mluvčího.
+S084,Many motorcycles are lined up to be displayed.,U-R,changed,Hodně motocyklů se řadí na přehlídku.,"Hodně motocyklů se řadí, aby mohlo být vystaveno."
+S085,Andrei looked at Danny picking up a green bag.,A-U,same,"Andrej se díval na Denyho, jak zvedá zelenou tašku.","Andrej se díval na Denyho, jak zvedá zelenou tašku."
+S092,The little girl is reaching for a piece of cake.,U-U,same,Malá dívka se natahuje pro kousek dortu.,Malá dívka se natahuje pro kousek dortu.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,changed,Osoba v modrém lyžařském obleku závodí s dvěmi dívkami na lyžích.,Osoba ve fialovém lyžařském obleku závodí s dvěma dívkami na lyžích.
+S096,A girl and a woman are sharing an appetizer on the outdoor patio of a beachside restaurant.,U-R,same,Dívka a žena sdílejí předkrm na terase restaurace na pláži.,Žena a dívka sdílejí předkrm na terase restaurace na pláži.
+S097,A person is pouring cake batter into a pan with a utensil.,A-U,same,Osoba nalévá těsto na koláč na pánev s naběračkou.,Osoba nalévá těsto na koláč na pánev s naběračkou.
+S099,There is a plate of food that includes a salad and a pastry with fruit and cream.,A-N,same,"Je tu talíř s jídlem, na kterém je salát, pečivo a ovoce s tvarohem.","Je tu talíř s jídlem, na kterém je salát, pečivo a ovoce s tvarohem."
+S098,A shop displays different color parasols on a wall.,U-U,same,Obchod vystavuje na zdi různě barevné slunečníky.,Obchod vystavuje na zdi různě barevné slunečníky.
+S110,A person is looking down at his own shoes and the top of a dog s head.,U-U,not indicated,Osoba se dívá dolů na vlastní boty a na vršek psí hlavy.,Osoba se dívá dolů na své boty a na vršek psí hlavy.
+S094,A street light has broken in half on someone s lawn.,U-N,same,Pouliční světlo se rozpadlo na dvě části na něčím trávníku.,Pouliční světlo se rozpadlo na dvě části na něčím trávníku.

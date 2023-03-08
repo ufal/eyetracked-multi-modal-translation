@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S155,There are foreign characters on the vehicle s side.,A-N,same,Na straně vozidla jsou cizí písmena.,Na straně vozidla jsou cizí písmena.
+S152,There are balconies on the second storey of the buildings.,U-R,same,Na druhém podlaží budov jsou balkóny.,Na druhém podlaží budov jsou balkóny.
+S135,There are streamers and ribbon suspended by lights hanging from a ceiling.,A-U,changed,Ze stopu visí proužky a mašle na světlech.,Ze stropu visí na světlech mašle a proužky.
+S162,People in hats are riding on a large elephant.,U-N,same,Lidi v kloboucích jedou na velkém slonovi.,Lidi v kloboucích jedou na velkém slonovi.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Osoba v modrém lyžařském obleku závodí se dvěma holkama na lyžích.,Osoba v modrém lyžařském obleku závodí se dvěma holkami na lyžích.
+S134,The two people are riding on a black bike.,U-R,changed,Tito dva lidé jedou na černém kole.,Tito dva lidé jedou na černém motocyklu.
+S141,Many large pots have been set beside large spoons.,A-U,same,Spousta velkých hrnců byla odložena vedle velkých lžic.,Spousta velkých hrnců byla odložena vedle velkých lžic.
+S137,A yellow and blue train is pulling into a train station.,A-N,same,Modro žlutý vlak přijíždí do vlakové stanice.,Modro žlutý vlak přijíždí do vlakové stanice.
+S138,There is a woman in a seat with hair blowing in the wind.,U-N,same,Na sedačce sedí žena jejíž vlasy vlají ve větru.,Na sedačce sedí žena jejíž vlasy vlají ve větru.
+S145,A man reaches with a racket to return a tennis ball.,A-R,changed,Muž dosahuje s raketou k vrácení tenisového míčku.,Muž natahuje raketu aby odpálil tenisový míček.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Osoba v jejím modré lyžařské kombinéze závodí se dvěma děvčaty na lyžích.,Osoba v jejím modré lyžařské kombinéze závodí se dvěma děvčaty na lyžích.
+S140,A young boy is putting ingredients into a blender.,U-R,same,Mladý chlapec dává ingredience do mixéru.,Mladý chlapec dává ingredience do mixéru.
+S156,A crowd of people stands and watches as guy on a horseback leads a bunch of horses behind him.,U-N,same,(Dr) Dav stojí a pozoruje zatímco muž na koni vede několik koňů za ním.,Dav stojí a pozoruje zatímco muž na koni vede za několik koní za ním.
+S147,There is a beer resting on the seat of a motorcycle.,A-U,same,Na sedačce motocyklu leží pivo.,Na sedačce motocyklu leží pivo.
+S133,There is a red white and blue shelter on a populated beach.,A-R,changed,Na navštěvované pláži je červeno bílo modrý baráček.,Na navštěvované pláži je červeno bílo modrý kryt.
+S161,There are two leather sofas sitting on each side of an entertainment center.,A-N,changed,Na každé straně zábavního centra jsou dvě kožené sedačky.,Na každé straně zábavního centra jsou dva kožené gauče.
+S150,A person lights a candle that is on a piece of cake.,U-N,same,Osoba zapaluje svíčku na kusu dortu.,Osoba zapaluje svíčku na kusu dortu.
+S153,Two people are walking along the water with umbrellas.,A-U,changed,Dva lidé se procházejí podél vody s deštníky.,Dva lidé s deštníky se procházejí okolo vody.
+S143,A television screen is displaying a cow in a wooded area.,A-N,changed,Na televizoru je kráva v zalesněné oblasti.,Na televizoru je vidět kráva v zalesněné oblasti.
+S154,A red metal frame forms the half pipe.,U-U,same,Kus červeného kovu tvoří polovinu trubky.,Kus červeného kovu tvoří polovinu trubky.
+S146,Several people are pushing a truck from the dirt onto the road.,U-R,changed,Několik lidí tlačí vozidlo z pryč z hlíny na silnici.,Několik lidí tlačí kamion z hlíny zpět na silnici.
+S159,A red train is passing over the water on a bridge.,A-U,same,Červený vlak přejíždí vodu po mostě.,Červený vlak přejíždí vodu po mostě.
+S142,A table is set up with wine glasses and a cake.,U-U,same,Stůl je prostřen se skleničkami na víno a dortem.,Stůl je prostřen se skleničkami vína a dortem.
+S157,A man is climbing an elephant with a saddle attached.,A-R,same,Muž leze na slona na němž je sedlo.,Muž leze na slona na němž je sedlo.
+S148,Two men are snow skiing and one has fallen down.,U-U,same,Dva muži lyžují na sněhu a jeden z nich spadl.,Dva muži lyžují na sněhu a jeden z nich spadl.
+S149,A woman with a dog is talking to two people sitting on a bench.,A-N,same,"Žena se psem mluví na dva lidi, kteří sedí na lavičce.",Žena se psem mluví na dva lidi sedící na lavičce.
+S158,There are cars moving at a very fast speed.,U-R,same,Jsou tam velmi rychle se pohybující auta.,Jsou tam velmi rychle se pohybující auta.
+S139,A modern building has a long table holding many fruits and vegetables.,A-R,same,V moderní budově je dlouhý stůl na němž je mnoho ovoce a zeleniny.,V moderní budově je dlouhý stůl na němž je mnoho ovoce a zeleniny.
+S136,A group of men is using poles to push themselves on skateboards.,U-U,same,Několik mužů se pomocí klacků odráží na skateboardech.,Několik mužů se pomocí klacků odráží na skateboardech.
+S144,This is a fryer that moves donuts down the fryer.,U-N,same,"Toto je vařič, který posouvá donuty dále po vařiči.","Toto je vařič, který posouvá donuty dále po vařiči."
+S160,A baby elephant is reaching for grey bag at a zoo.,U-U,changed,Malý slon se natahuje pro šedou tašku v Zoo.,Slůňátko se v Zoo natahuje pro šedou tašku.
+S151,Several people are sitting around a table in a small room with a laptop books and papers.,A-R,same,"Několik lidí sedí okolo stolu v malé místnosti s laptopem, knihami a papíry.","Několik lidí sedí okolo stolu v malé místnosti s laptopem, knihami a papíry."

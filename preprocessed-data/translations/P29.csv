@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S021,This is the second car in the train.,A-U,same,To je druhý vagón vlaku.,To je druhý vagón vlaku.
+S011,A young man is looking into the inside of a refrigerator through bottles.,A-N,same,Mladý muž se kouká dovnitř ledničky skrz láhve.,Mladý muž se kouká dovnitř ledničky skrz láhve.
+S020,This is a blue wall beside a tennis court.,U-R,same,Je to modrá stěna vedle tenisového kurtu.,To je modrá stěna vedle tenisového kurtu.
+S026,A woman is pointing a Wii remote right at the camera.,U-R,changed,Žena míří svůj ovladač konzole Wii přímo na kameru.,Žena mí/žena míří svůj ovladač konzole Wii přímo do fotoaparátu.
+S010,This is a green court.,U-U,same,Toto je zelený dvůr.,Toto je zelený dvůr.
+S008,Some people are boarding a parked double decker bus on a busy street.,U-R,same,Někteří lidé nastupují na autobus doubledecker na rušné ulici.,Někteří lidé nastupují z autobusu doubledecker na rušné ulici.
+S029,A jogging couple is resting on benches at the pier across the city view.,A-N,same,Běžící pár od/odpočívá na lavičkách naproti výhledu na město.,Běžící pár odpočívá na lavičkách naproti výhledu na město.
+S018,A woman reaching to hit a tennis ball with a racquet.,U-N,same,Žena snažící se uhodit tenisový míček raketou.,Žena snažící se uhodit tenisový míček raketou.
+S019,A pregnant woman is writing on her stomach holding a yellow teddy bear.,A-R,same,"Těhotná žena píše na své břicho, zatímco drží žlutého plyšového medvídka.","Těhotná žena si píše na břicho, zatímco drží žlutého plyšového medvídka."
+S025,A group of police officers is standing in front of a parade.,A-R,same,Skupina policistů stojí před slavnostním pochodem.,Skupina policistů stojí před slavnostním pochodem.
+S005,There are series of curved forms around the body.,A-N,same,Kolem těla je ohnutých spoustu formiček.,Kolem těla je spoustu ohnutých formiček.
+S007,There is a red fire hydrant with a chain on a cement sidewalk.,A-R,same,Červený požární hydrant s řetězem je na cementovém chodníku.,Červený požární hydrant s řetízkem je na cementovém chodníku.
+S024,There is a plate that has food sitting on a table.,U-N,same,Na stole je talíř s jídlem.,Na stole je talíř s jídlem.
+S001,There is a man wearing a hat sitting under a TV mounted on a wall.,A-R,changed,"Muž, který má na sobě klobouk, sedí pod televizí, která je přišroubovaná na stěně.","Muž, který muž, který má na sobě čepici, sedí pod televizí, která je přišroubovaná na stěně."
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Žena v modré lyžařské kombinéze honí dvě holčičky na lyžích.,Žena v modré lyžařské kombinéze honí dvě holčičky na lyžích.
+S028,A couple of wood signs are pointing in different directions.,U-U,same,Dřevěné ukazatele ukazují do rozdílných směrů.,Dřevěné ukazatele ukazují do rozdílných směrů.
+S006,There is a table set for a dinner of pizza.,U-N,same,Stůl je připraven na pizzu k večeři.,Stůl je připraven na pizzu k večeři.
+S009,Andrei looked at Danny moving a yellow chair.,A-U,same,"Andrej se podíval na Deny, která stěhovala žlutou židli.","Andrej se podíval na Deny, která stěhovala žlutou židli."
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Žena v modré lyžařské kombinéze honí dvě holčičky na lyžích.,Žena v modré lyžařské kombinéze honí dvě holčičky na lyžích.
+S016,The toy train set is set up and being photographed.,U-U,same,Hračkový vláček je připraven a právě focen.,Hračkový vláček je připraven a právě focen.
+S013,The characters are chinese.,A-R,same,To je čínské písmo.,To je čínské písmo.
+S002,There are a table with two cakes and champagne glasses and two women serving cake.,U-R,same,"Je tu stůl s dvěma dorty a skleničkami na šampaňské a dvě ženy, které servírují dort.",Je tu stůl se dvěma dorty a skleničkami na šampaňské a dvě ženy servírují dort.
+S003,There is a stoplight with images drawn on each of the lights.,A-U,same,"Semafor, na jehož každém světle je nakreslen obrázek.","Semafor, na každém jehož světle je nakreslen obrázek."
+S023,A man in a colorful umbrella hat holds an orange.,A-N,same,Muž s barevným deštníkovým kloboukem drží pomeranč.,Muž s barevným deštníkovým kloboukem drží pomeranč.
+S004,Some people are standing in the middle of the street lined with motorcycles.,U-U,same,Nějací lidé stojí uprostřed ulice plné motorek.,Nějací lidé stojí uprostřed ulice plné motorek.
+S030,The traffic lights stand out a lot.,U-N,same,Ten semafor hodně vyčnívá.,Ten semafor hodně vyčnívá.
+S012,A jockey is racing on a horse in the rain.,U-N,same,Žokej závodí na koni v dešti.,Žokej závodí na koni v dešti.
+S014,A man in blue shirt is sitting on a pile of luggage.,U-R,changed,Muž v modrém tričku sedí na hromádce kufrů.,Muž v modrém tričku sedí na hromádce zavazadel.
+S015,There is a small kitchenette opening up to another room.,A-U,same,Kuchyňský kout vede k další místnosti.,Kuchyňský kout vede k další místnosti.
+S027,There is a bar with neon lights behind the bottles.,A-U,same,Bar s neonovými světly je za láhvemi.,Bar s neonovými světly je za láhvemi.
+S017,Danny put down the bag and the chair it is yellow.,A-N,same,"Deny položil tašku a poté žu/židli, ta je žlutá.","Deny položil tašku a pak i židli, ta je žlutá."
+S022,This is some type of a fair.,U-U,same,To je nějaký druh trhu.,To je nějaký druh trhu.

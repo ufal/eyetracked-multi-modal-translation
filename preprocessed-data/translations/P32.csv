@@ -1,0 +1,33 @@
+Sentence_ID,Original,Congruency,Choice,Translate,Update
+S120,An elephant is sticking its trunk through a fence.,U-R,same,Slon s/prostrkuje chobot skrze plot.,Slon prostrkuje chobot skrze plot.
+S175,Two men are racing horses down a racing track.,U-N,same,Dva muži závodí na koních po závodní dráze.,Dva muži závodí na koních po závodní dráze.
+S172,A person is pushing a button on a television.,A-U,same,Osoba mačká knoflík na televizi nebo tlačítko na televizi.,Osoba mačká tlačítko na televizi.
+S181,This is a white second hand on the clock.,U-N,same,Toto je bílá vteřinová ručička na hodinách.,Toto je bílá vteřinová ručička na hodinách.
+S118,A man is putting food on his plate and a woman is pouring wine.,U-N,same,Muž dává jídlo na svůj talíř a žena nalévá víno.,Muž dává jídlo na svůj talíř a žena nalévá víno.
+S169,There is a stand in the room.,A-N,same,V místnosti je stojan.,V místnosti je stojan.
+S168,There are two foods and one drink set on the clear table.,U-U,same,Na čistém stole jsou dvě jídla a jedno pití.,Na čistém stole jsou dvě jídla a jedno pití.
+S178,There is a black TV stand with flat screen.,A-U,same,Támhle je stojan s černou plochou televizí.,Támhle je černý stojan s plochou televizí.
+S177,A man is putting a turkey into the oven.,U-R,same,Muž vkládá krocana do trouby.,Muž vkládá krocana do trouby.
+S171,There is a man holding roses next to a woman holding a cake.,A-R,same,"Támhle je muž držící růže vedle ženy, která drží dort.","Támhle je muž držící růže vedle ženy, která drží dort."
+S038,A group of military people is running towards a school bus.,U-R,changed,Skupina ozbrojených lidí běží směrem k autobusu.,Skupina ozbrojených lidí běží směrem ke školnímu autobusu.
+S174,A man is reaching down for something in a box.,A-N,same,Muž se sklání dolů pro něco v krabici.,Muž se sklání dolů pro něco v krabici.
+S164,A hotdog is wrapped up in some foil.,U-N,same,Hotdog je zabalen v nějaké fólii.,Hotdog je zabalen v nějaké fólii.
+S116,This is a silver and black French press coffee pot.,U-U,same,Toto je stříbrno-černý hrneček na french press.,Toto je stříbrno-červený hrneček na french press.
+S176,There are white forms on a keyboard.,A-R,changed,Na klávesnici jsou bílá místa.,Na klávesnici jsou bílé formuláře.
+S119,A cop leads the way for other people on motorcycles.,A-R,changed,Policista vede skupinu lidí na motocyklech.,Policista je v čele skupiny lidí na motocyklech.
+S032,A person in her blue ski suit is racing two girls on skis.,U-X,same,Osoba ve své modré lyžařské kombinéze závodí na lyžích s dvěma dívkami.,Osoba ve své modré lyžařské kombinéze závodí se dvěma dívkami na lyžích.
+S170,There is a man sitting on a cement block.,U-N,same,Támhle je muž sedící na betonovém bloku.,Támhle je muž sedící na betonovém bloku.
+S115,A horse reaching over a fence is eating wild grass.,A-U,same,Kůň natahující se přes plot jí divokou trávu.,Kůň natahující se přes plot jí divokou trávu.
+S121,A man is covering his eyes next to cases of bananas.,A-U,same,Muž si zakrývá oči vedle beden s banány.,Muž si zakrývá oči vedle beden s banány.
+S166,A man takes a selfie as he opens his new computer.,U-R,changed,"Muž si pořizuje selfie, jakmile otvírá svůj nový počítač.",Muž si pořizuje selfie při otevírání svého nového počítače.
+S179,A small child wrapped in a towel lies on a bed.,U-U,same,Malé dítě zabalené do ručníku leží na posteli.,Malé dítě zabalené do ručníku leží na posteli.
+S031,A person in a blue ski suit is racing two girls on skis.,A-X,same,Osoba v modré lyžařské kombinéze závodí se dvěma dívkami na lyžích.,Osoba v modré lyžařské kombinéze závodí se dvěma dívkami na lyžích.
+S167,Adult carrying a child in full gear including skiis at the bottom of a ski slope.,A-U,same,Dospělá osoba nesoucí dítě v plné výbavě včetně lyží ve spodní části sjezdovky.,Dospělá osoba nesoucí dítě v plné výbavě včetně lyží ve spodní části sjezdovky.
+S180,A man and a woman are shaking hands amidst a crowd by a cake.,A-N,same,Muž a žena si potřásají rukami uprostřed davu u dortu.,Muž a žena si potřásají rukami uprostřed davu u dortu.
+S113,Two men on surfboards catch a breaking wave.,A-R,same,Dva muži na surfech zachytí velikou vlnu.,Dva muži na surfech zachytí velikou vlnu.
+S165,A man hit something that exploded with a bat.,A-R,same,"Muž udeřil pálkou něco, co explodovalo.","Muž udeřil pálkou něco, co explodovalo."
+S122,Some of the Catholic School children are lined up in single file in front of the microphone.,U-U,same,Děti z katolické školy jsou seřazeny v jednom zástupu před mikrofonem.,Děti z katolické školy jsou seřazeny v jednom zástupu před mikrofonem.
+S114,There is a chain linked fence behind players.,U-R,same,Za hráči je řetězem spojený plot.,Za hráči je řetězem spojený plot.
+S117,Many candles are placed on a table in front of a painting.,A-N,same,Na stole před obrazem je umístěno mnoho svíček.,Na stole před obrazem je umístěno mnoho svíček.
+S163,The date is orange.,A-N,same,Datum je oranžové.,Datum je oranžové.
+S173,A woman on skis is looking back to the person behind her.,U-U,same,"Žena na lyžích se kouká za sebe na osobu, která je za ní.","Žena na lyžích se kouká za sebe na osobu, která je za ní."
