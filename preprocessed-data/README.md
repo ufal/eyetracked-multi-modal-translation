@@ -4,21 +4,31 @@ In this directory, the recordings are reorganized so that all observations of a 
 
 EEG and gaze data are divided into the processing stages: READ, TRANSLATE, SEE, UPDATE.
 
-Furthermore, the translations produced by the subjects were manually transcribed and all the surrounding remarks uttered by the subjects were disregarded.
+The translations produced by the subjects were manually transcribed and all the surrounding remarks uttered by the subjects were disregarded.
 
 ## EEG 
 
-One json file with EEG data is provided for each processing stage (read, translate, see, update) and input sentence (``Sxxx``).
+One CSV file with EEG data is provided for each processing stage (read, translate, see, update) and input sentence (``Sxxx``).
 
-The json contains a dictionary data structure with participants who saw the sentence (P05,...) as the keys.
+The filename encodes details on the stimulus, e.g.: ``P03-01-S092-U-R.csv`` means that the participant ``P03`` as the first stimulus (``01``) saw the sentence ``S092`` (which is deemed ``U``nambiguous), and in the See stage, a ``R``elated image was presented.
 
-For each participant, the data is presented in the following format: ``{time_stamp:[EEG data]}``. Here EEG data corresponds to the raw reading from the four electrodes ([sensor1, sensor2, sensor3, sensor4]).
+The CSV has columns with all the recorded signals from the MUSE 2 Headband.
+
+Important remarks:
+- MUSE 2 timestamps (the first column) are not of a sufficient resolution, there are sometimes multiple measurements reported at the same millisecond.
+- MUSE 2 does some automatic estimation of blinks and jaw clenches; these are reported as lines with only the timestamp in the first column and the corresponding flag in the last column; this estimation does not seem to be reliable.
 
 ## Gaze
 
-For the gaze data, the files structure is similar to EEG: one file for each stage and input sentence, then a dictionary from participants to list of time-stamped observations.
+For the gaze data, the files structure is identical to EEG: one file for each stage and input sentence, same filename convention (e.g. ``P03-01-S092-U-R.csv`` as above).
 
-At each time stamp, a tuple is provided: ``{signal,flag}``. Here ``signal`` points to the position of the eye as recorded on the screen. The ``flag`` indicates if the signal was captured in the middle of a fixation (``f``) or a saccade (``s``) or in the absence of both (``n``).
+The CSV has these columns:
+- timestamp in 10000ths of a second
+- X position of the gaze in screen coordinates (or empty)
+- Y position of the gaze in screen coordinates (or empty)
+- event indication as estimated by the eye tracker: ``saccade'', ``fixation'' or ``blink''
+
+If the particular stimulus was not recorded, e.g. due to calibration failure, the file is empty.
 
 ## Translations
 
