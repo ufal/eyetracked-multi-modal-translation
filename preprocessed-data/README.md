@@ -6,6 +6,8 @@ EEG and gaze data are divided into the processing stages: READ, TRANSLATE, SEE, 
 
 The translations produced by the subjects were manually transcribed and all the surrounding remarks uttered by the subjects were disregarded.
 
+The directory ``unsplit-preprocessed-probes'' contains the probes before splitting to the four stages but already preprocessed as described below for EEG and Gaze.
+
 ## EEG 
 
 One CSV file with EEG data is provided for each processing stage (read, translate, see, update) and input sentence (``Sxxx``).
