@@ -91,9 +91,7 @@ The filenames have the following format:
 
 #### Preprocessed Data
 
-The folder ``preprocessed-data/`` contains the data divided into the 4 stages.
-
-The gaze and EEG recordings are in JSON format, the translations produced by the participants are manually transcribed and stored in a simple tab-delimited plain text file. Please see ``preprocessed-data/README.md`` for details on the file formats.
+The folder ``preprocessed-data/`` contains the data divided into the 4 stages. The translations produced by the participants are manually transcribed and stored in a simple tab-delimited plain text file. Please see ``preprocessed-data/README.md`` for details on the file formats.
 
 ## Authors
 
